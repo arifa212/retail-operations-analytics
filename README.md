@@ -33,6 +33,18 @@ This makes sense due to stock rotation and storing conditions.
 
 ### Checkout demand peaked during busy trading periods
 
+### Sales overview dashboard
+
+<img width="632" alt="sales_overview_dashboard" src="https://github.com/user-attachments/assets/138da9b7-d9ce-4138-9dfa-45efac444d25" />
+This explores revenue, transactions, performance and waste in the dataset.
+
+### Operations overview dashboard
+
+<img width="632" alt="operations_overview_dashboard" src="https://github.com/user-attachments/assets/6c84566b-1e5c-4e16-866d-6eb4a2b21b37" />
+This dashboard shows the hourly transaction demand, average waiting times and seeing what the amount of staff impact.
+
+
+
 Dataset
 This dataset includes 1000 retails record.
 
