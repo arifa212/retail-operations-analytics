@@ -1,0 +1,1001 @@
+﻿Transaction ID,Date,Time,Day,Product,Category,Quantity,Unit Price (£),Promotion,Stock Before Sale,Waste Quantity,Staff on Shift,Checkout Wait (mins),Revenue (£),Hours
+T00001,10/06/2026,16:35,Wednesday,Cola 2L,Drinks,2,£1.75,No,34,0,5,4.3,£3.50,16
+T00002,07/07/2026,16:10,Tuesday,Bananas,Fresh Produce,1,£0.95,No,18,0,4,3.6,£0.95,16
+T00003,30/08/2026,13:25,Sunday,Kitchen Roll,Household,4,£2.80,Yes,52,0,7,6.3,£11.20,13
+T00004,20/07/2026,21:25,Monday,Tomatoes,Fresh Produce,2,£1.49,No,3,0,7,1.7,£2.98,21
+T00005,04/06/2026,12:10,Thursday,Cheddar Cheese,Dairy,1,£2.79,No,28,0,8,5.7,£2.79,12
+T00006,18/06/2026,15:40,Thursday,White Bread,Bakery,3,£1.39,No,30,0,4,3.5,£4.17,15
+T00007,27/07/2026,13:00,Monday,Apples,Fresh Produce,3,£1.79,No,18,0,9,4.9,£5.37,13
+T00008,04/08/2026,17:40,Tuesday,Ice Cream,Frozen,1,£3.36,Yes,20,0,7,3.8,£3.36,17
+T00009,08/07/2026,11:50,Wednesday,Cheddar Cheese,Dairy,3,£2.79,No,41,0,6,2.0,£8.37,11
+T00010,19/08/2026,11:00,Wednesday,Cheddar Cheese,Dairy,1,£2.37,Yes,3,0,6,1.3,£2.37,11
+T00011,15/06/2026,17:45,Monday,Chocolate Cookies,Bakery,1,£1.69,No,46,0,8,6.0,£1.69,17
+T00012,15/06/2026,12:05,Monday,Bin Bags,Household,1,£2.29,Yes,50,0,6,6.5,£2.29,12
+T00013,28/07/2026,18:25,Tuesday,Frozen Pizza,Frozen,1,£3.49,No,39,0,9,4.4,£3.49,18
+T00014,11/07/2026,07:40,Saturday,Tomatoes,Fresh Produce,1,£1.49,No,23,0,4,3.3,£1.49,7
+T00015,04/08/2026,16:55,Tuesday,Croissants,Bakery,1,£1.99,No,24,0,5,3.6,£1.99,16
+T00016,17/07/2026,17:10,Friday,Kitchen Roll,Household,1,£3.29,No,24,0,6,5.2,£3.29,17
+T00017,01/06/2026,10:25,Monday,Cola 2L,Drinks,1,£1.49,Yes,36,0,7,2.8,£1.49,10
+T00018,09/08/2026,21:25,Sunday,Ice Cream,Frozen,3,£3.95,No,19,0,5,3.1,£11.85,21
+T00019,17/07/2026,12:30,Friday,Milk 2L,Dairy,1,£1.55,No,42,0,8,3.3,£1.55,12
+T00020,02/06/2026,16:45,Tuesday,Ice Cream,Frozen,2,£3.95,No,44,0,6,2.4,£7.90,16
+T00021,08/08/2026,11:30,Saturday,Bin Bags,Household,3,£2.69,No,7,0,5,3.1,£8.07,11
+T00022,11/08/2026,14:00,Tuesday,Bottled Water 6pk,Drinks,2,£2.49,No,39,0,5,3.3,£4.98,14
+T00023,08/07/2026,19:00,Wednesday,Kitchen Roll,Household,1,£3.29,No,6,0,9,3.6,£3.29,19
+T00024,30/08/2026,14:40,Sunday,Apples,Fresh Produce,1,£1.79,No,34,3,4,4.5,£1.79,14
+T00025,19/06/2026,12:20,Friday,Tomatoes,Fresh Produce,2,£1.27,Yes,9,0,7,5.5,£2.54,12
+T00026,29/08/2026,12:00,Saturday,Bottled Water 6pk,Drinks,1,£2.49,No,15,0,6,3.8,£2.49,12
+T00027,15/06/2026,16:05,Monday,Bananas,Fresh Produce,1,£0.95,No,28,1,6,1.8,£0.95,16
+T00028,06/06/2026,21:40,Saturday,Bottled Water 6pk,Drinks,1,£2.49,No,15,0,4,3.4,£2.49,21
+T00029,19/06/2026,16:15,Friday,Chocolate Cookies,Bakery,1,£1.69,No,34,0,7,2.4,£1.69,16
+T00030,28/06/2026,14:20,Sunday,Bin Bags,Household,1,£2.69,No,52,0,7,2.3,£2.69,14
+T00031,23/08/2026,08:50,Sunday,Croissants,Bakery,2,£1.99,No,44,0,7,2.3,£3.98,8
+T00032,12/06/2026,12:55,Friday,Orange Juice,Drinks,3,£1.89,No,47,0,9,4.0,£5.67,12
+T00033,27/06/2026,14:55,Saturday,Milk 2L,Dairy,2,£1.55,No,11,0,5,3.9,£3.10,14
+T00034,18/08/2026,17:25,Tuesday,Tomatoes,Fresh Produce,3,£1.27,Yes,18,1,8,5.6,£3.81,17
+T00035,29/06/2026,20:55,Monday,Frozen Pizza,Frozen,3,£2.97,Yes,4,1,6,1.3,£8.91,20
+T00036,15/07/2026,17:35,Wednesday,Washing Liquid,Household,1,£3.99,No,55,0,9,5.3,£3.99,17
+T00037,28/07/2026,18:15,Tuesday,Tomatoes,Fresh Produce,1,£1.49,No,43,0,7,5.5,£1.49,18
+T00038,10/06/2026,10:40,Wednesday,Frozen Chips,Frozen,1,£2.25,No,16,0,6,2.8,£2.25,10
+T00039,11/07/2026,12:45,Saturday,Tomatoes,Fresh Produce,1,£1.49,No,59,1,8,3.3,£1.49,12
+T00040,18/07/2026,18:20,Saturday,Greek Yogurt,Dairy,1,£1.85,No,9,0,9,2.8,£1.85,18
+T00041,06/06/2026,16:05,Saturday,Cheddar Cheese,Dairy,1,£2.37,Yes,47,0,6,2.5,£2.37,16
+T00042,17/06/2026,11:25,Wednesday,Ice Cream,Frozen,1,£3.36,Yes,35,0,6,1.8,£3.36,11
+T00043,15/07/2026,19:20,Wednesday,Frozen Chips,Frozen,1,£2.25,No,13,0,7,3.0,£2.25,19
+T00044,25/06/2026,19:45,Thursday,Bananas,Fresh Produce,1,£0.95,No,43,0,6,6.1,£0.95,19
+T00045,12/06/2026,20:45,Friday,Frozen Chips,Frozen,1,£2.25,No,52,0,5,3.7,£2.25,20
+T00046,18/07/2026,16:05,Saturday,Croissants,Bakery,1,£1.99,No,15,0,6,2.5,£1.99,16
+T00047,09/08/2026,13:50,Sunday,Ice Cream,Frozen,1,£3.95,No,59,0,8,6.2,£3.95,13
+T00048,30/06/2026,16:55,Tuesday,Washing Liquid,Household,2,£3.99,No,42,0,4,2.3,£7.98,16
+T00049,29/06/2026,12:30,Monday,Orange Juice,Drinks,1,£1.89,No,53,0,6,5.4,£1.89,12
+T00050,11/07/2026,12:05,Saturday,Frozen Chips,Frozen,2,£2.25,No,55,0,6,4.2,£4.50,12
+T00051,02/08/2026,18:30,Sunday,Chocolate Cookies,Bakery,1,£1.69,No,35,2,7,4.5,£1.69,18
+T00052,05/06/2026,17:50,Friday,Bananas,Fresh Produce,1,£0.95,No,6,0,6,5.7,£0.95,17
+T00053,27/06/2026,19:20,Saturday,Bin Bags,Household,2,£2.69,No,9,0,8,4.2,£5.38,19
+T00054,02/06/2026,14:15,Tuesday,Washing Liquid,Household,1,£3.99,No,24,0,4,4.4,£3.99,14
+T00055,03/06/2026,18:30,Wednesday,Bottled Water 6pk,Drinks,1,£2.49,No,46,0,8,3.4,£2.49,18
+T00056,12/07/2026,14:50,Sunday,Bin Bags,Household,2,£2.69,No,44,0,5,3.4,£5.38,14
+T00057,30/06/2026,08:55,Tuesday,Cola 2L,Drinks,3,£1.75,No,18,0,5,3.5,£5.25,8
+T00058,13/08/2026,16:40,Thursday,Kitchen Roll,Household,2,£3.29,No,29,1,4,3.7,£6.58,16
+T00059,25/08/2026,16:00,Tuesday,Apples,Fresh Produce,1,£1.52,Yes,50,0,7,1.6,£1.52,16
+T00060,02/06/2026,17:50,Tuesday,Ice Cream,Frozen,1,£3.95,No,19,0,9,5.7,£3.95,17
+T00061,08/08/2026,18:25,Saturday,Milk 2L,Dairy,3,£1.55,No,32,0,8,3.8,£4.65,18
+T00062,06/07/2026,16:05,Monday,Bin Bags,Household,4,£2.69,No,24,0,7,2.4,£10.76,16
+T00063,11/08/2026,19:30,Tuesday,Tomatoes,Fresh Produce,1,£1.27,Yes,37,1,7,6.0,£1.27,19
+T00064,24/07/2026,17:15,Friday,Tomatoes,Fresh Produce,1,£1.49,No,15,0,9,6.2,£1.49,17
+T00065,27/07/2026,21:40,Monday,Orange Juice,Drinks,1,£1.89,No,52,0,6,2.0,£1.89,21
+T00066,04/07/2026,07:45,Saturday,Chocolate Cookies,Bakery,2,£1.44,Yes,3,3,7,1.9,£2.88,7
+T00067,01/08/2026,13:15,Saturday,Apples,Fresh Produce,1,£1.79,No,27,0,6,3.2,£1.79,13
+T00068,02/06/2026,13:10,Tuesday,Frozen Chips,Frozen,1,£2.25,No,38,0,9,4.5,£2.25,13
+T00069,15/06/2026,14:40,Monday,Chocolate Cookies,Bakery,2,£1.69,No,32,2,6,2.6,£3.38,14
+T00070,11/07/2026,13:00,Saturday,Frozen Chips,Frozen,1,£2.25,No,3,0,9,3.8,£2.25,13
+T00071,15/06/2026,14:00,Monday,Croissants,Bakery,2,£1.99,No,25,0,5,4.6,£3.98,14
+T00072,26/06/2026,16:35,Friday,Washing Liquid,Household,2,£3.39,Yes,12,0,7,2.2,£6.78,16
+T00073,22/06/2026,11:55,Monday,Frozen Chips,Frozen,2,£2.25,No,31,0,5,4.0,£4.50,11
+T00074,14/07/2026,15:55,Tuesday,Kitchen Roll,Household,1,£3.29,No,53,0,6,1.7,£3.29,15
+T00075,21/06/2026,16:00,Sunday,Kitchen Roll,Household,3,£3.29,No,26,0,6,2.0,£9.87,16
+T00076,16/07/2026,09:25,Thursday,Tomatoes,Fresh Produce,1,£1.27,Yes,57,0,6,2.2,£1.27,9
+T00077,05/06/2026,15:40,Friday,Orange Juice,Drinks,1,£1.61,Yes,30,0,4,3.5,£1.61,15
+T00078,24/07/2026,12:10,Friday,Chocolate Cookies,Bakery,1,£1.69,No,10,0,6,4.1,£1.69,12
+T00079,06/06/2026,12:00,Saturday,Greek Yogurt,Dairy,2,£1.85,No,41,0,7,3.8,£3.70,12
+T00080,15/08/2026,18:10,Saturday,Orange Juice,Drinks,2,£1.61,Yes,23,0,6,4.4,£3.22,18
+T00081,28/06/2026,18:25,Sunday,Orange Juice,Drinks,3,£1.89,No,36,0,8,6.7,£5.67,18
+T00082,15/06/2026,17:30,Monday,Washing Liquid,Household,2,£3.99,No,34,0,6,5.6,£7.98,17
+T00083,27/06/2026,07:00,Saturday,Kitchen Roll,Household,2,£3.29,No,11,0,6,2.3,£6.58,7
+T00084,23/08/2026,17:35,Sunday,Apples,Fresh Produce,2,£1.79,No,60,0,6,2.8,£3.58,17
+T00085,12/07/2026,09:25,Sunday,Bottled Water 6pk,Drinks,1,£2.49,No,45,0,5,5.4,£2.49,9
+T00086,14/08/2026,15:30,Friday,Orange Juice,Drinks,1,£1.89,No,36,0,5,4.6,£1.89,15
+T00087,29/08/2026,10:20,Saturday,Apples,Fresh Produce,1,£1.79,No,60,0,6,1.9,£1.79,10
+T00088,19/08/2026,12:30,Wednesday,Orange Juice,Drinks,1,£1.89,No,26,0,7,4.2,£1.89,12
+T00089,03/08/2026,09:45,Monday,Kitchen Roll,Household,1,£3.29,No,23,0,7,2.2,£3.29,9
+T00090,25/07/2026,13:20,Saturday,Bottled Water 6pk,Drinks,4,£2.49,No,45,0,6,4.5,£9.96,13
+T00091,15/08/2026,14:35,Saturday,Tomatoes,Fresh Produce,1,£1.27,Yes,33,0,5,3.3,£1.27,14
+T00092,18/07/2026,17:10,Saturday,White Bread,Bakery,1,£1.18,Yes,44,0,9,6.2,£1.18,17
+T00093,11/07/2026,16:25,Saturday,Kitchen Roll,Household,1,£3.29,No,21,0,6,1.3,£3.29,16
+T00094,12/07/2026,18:05,Sunday,Cola 2L,Drinks,2,£1.75,No,6,0,9,3.9,£3.50,18
+T00095,04/07/2026,14:25,Saturday,Frozen Chips,Frozen,4,£2.25,No,54,0,5,4.3,£9.00,14
+T00096,05/06/2026,08:30,Friday,Bin Bags,Household,2,£2.69,No,60,0,6,1.7,£5.38,8
+T00097,03/08/2026,12:15,Monday,White Bread,Bakery,1,£1.39,No,42,0,7,4.8,£1.39,12
+T00098,27/06/2026,18:20,Saturday,Greek Yogurt,Dairy,1,£1.85,No,11,0,6,4.2,£1.85,18
+T00099,22/08/2026,21:20,Saturday,Bin Bags,Household,1,£2.69,No,8,0,6,1.2,£2.69,21
+T00100,17/06/2026,11:25,Wednesday,Washing Liquid,Household,1,£3.99,No,32,0,6,2.9,£3.99,11
+T00101,09/07/2026,15:25,Thursday,Frozen Chips,Frozen,1,£2.25,No,12,0,7,2.3,£2.25,15
+T00102,03/06/2026,17:30,Wednesday,Apples,Fresh Produce,1,£1.79,No,25,0,7,6.2,£1.79,17
+T00103,21/06/2026,19:40,Sunday,Frozen Chips,Frozen,1,£2.25,No,47,0,7,4.4,£2.25,19
+T00104,07/08/2026,13:15,Friday,Bottled Water 6pk,Drinks,2,£2.12,Yes,23,0,9,4.5,£4.24,13
+T00105,13/07/2026,14:15,Monday,Cola 2L,Drinks,3,£1.75,No,24,0,5,4.1,£5.25,14
+T00106,02/08/2026,17:25,Sunday,Ice Cream,Frozen,1,£3.36,Yes,31,0,9,3.3,£3.36,17
+T00107,19/08/2026,13:15,Wednesday,Frozen Chips,Frozen,2,£2.25,No,35,0,6,4.6,£4.50,13
+T00108,13/06/2026,13:45,Saturday,Kitchen Roll,Household,2,£3.29,No,14,0,8,4.7,£6.58,13
+T00109,13/07/2026,19:55,Monday,White Bread,Bakery,2,£1.39,No,53,2,8,4.7,£2.78,19
+T00110,28/07/2026,14:00,Tuesday,Ice Cream,Frozen,2,£3.95,No,3,0,7,2.3,£7.90,14
+T00111,30/07/2026,19:30,Thursday,Orange Juice,Drinks,3,£1.89,No,26,0,7,5.2,£5.67,19
+T00112,01/08/2026,17:10,Saturday,Bananas,Fresh Produce,1,£0.95,No,26,0,6,4.6,£0.95,17
+T00113,19/06/2026,12:15,Friday,Frozen Chips,Frozen,2,£1.91,Yes,38,1,6,4.8,£3.82,12
+T00114,07/08/2026,21:55,Friday,Washing Liquid,Household,1,£3.99,No,42,0,7,2.0,£3.99,21
+T00115,17/08/2026,12:05,Monday,Chocolate Cookies,Bakery,2,£1.69,No,36,3,6,2.9,£3.38,12
+T00116,15/06/2026,09:50,Monday,Croissants,Bakery,1,£1.99,No,41,0,7,2.7,£1.99,9
+T00117,04/06/2026,16:55,Thursday,Bin Bags,Household,1,£2.29,Yes,21,0,5,4.0,£2.29,16
+T00118,03/07/2026,14:10,Friday,Croissants,Bakery,4,£1.99,No,9,0,6,2.3,£7.96,14
+T00119,18/08/2026,13:10,Tuesday,Greek Yogurt,Dairy,3,£1.85,No,43,0,6,3.5,£5.55,13
+T00120,23/07/2026,17:00,Thursday,Frozen Chips,Frozen,1,£1.91,Yes,12,0,7,5.0,£1.91,17
+T00121,14/08/2026,14:15,Friday,Bin Bags,Household,2,£2.69,No,17,0,7,2.4,£5.38,14
+T00122,05/07/2026,12:20,Sunday,Greek Yogurt,Dairy,1,£1.57,Yes,6,0,6,4.4,£1.57,12
+T00123,07/07/2026,14:50,Tuesday,Bananas,Fresh Produce,1,£0.95,No,51,3,6,1.9,£0.95,14
+T00124,19/06/2026,18:10,Friday,Greek Yogurt,Dairy,2,£1.85,No,23,0,7,3.9,£3.70,18
+T00125,06/06/2026,12:00,Saturday,Ice Cream,Frozen,3,£3.95,No,44,0,9,4.5,£11.85,12
+T00126,09/08/2026,10:50,Sunday,Washing Liquid,Household,1,£3.99,No,58,0,4,3.6,£3.99,10
+T00127,26/07/2026,08:05,Sunday,Greek Yogurt,Dairy,1,£1.57,Yes,15,0,6,1.1,£1.57,8
+T00128,13/07/2026,16:20,Monday,Ice Cream,Frozen,1,£3.95,No,27,0,5,4.2,£3.95,16
+T00129,19/06/2026,13:25,Friday,Apples,Fresh Produce,2,£1.52,Yes,19,0,9,4.6,£3.04,13
+T00130,15/06/2026,19:55,Monday,Bananas,Fresh Produce,2,£0.81,Yes,27,0,9,5.4,£1.62,19
+T00131,13/08/2026,12:15,Thursday,White Bread,Bakery,3,£1.39,No,25,0,6,3.8,£4.17,12
+T00132,19/06/2026,12:20,Friday,Cola 2L,Drinks,1,£1.49,Yes,36,0,7,4.4,£1.49,12
+T00133,28/08/2026,17:10,Friday,Greek Yogurt,Dairy,3,£1.85,No,60,0,8,4.1,£5.55,17
+T00134,08/08/2026,20:00,Saturday,Orange Juice,Drinks,1,£1.89,No,10,0,4,4.1,£1.89,20
+T00135,06/08/2026,13:40,Thursday,Apples,Fresh Produce,2,£1.79,No,23,0,9,6.2,£3.58,13
+T00136,24/08/2026,17:05,Monday,Greek Yogurt,Dairy,1,£1.85,No,48,0,9,5.2,£1.85,17
+T00137,03/06/2026,16:25,Wednesday,Frozen Chips,Frozen,2,£1.91,Yes,11,0,4,2.8,£3.82,16
+T00138,06/08/2026,18:40,Thursday,Kitchen Roll,Household,1,£3.29,No,45,0,9,6.1,£3.29,18
+T00139,30/07/2026,17:45,Thursday,Orange Juice,Drinks,3,£1.89,No,55,0,7,4.4,£5.67,17
+T00140,08/08/2026,14:05,Saturday,Tomatoes,Fresh Produce,1,£1.49,No,43,0,4,4.6,£1.49,14
+T00141,10/06/2026,09:20,Wednesday,Chocolate Cookies,Bakery,1,£1.44,Yes,58,0,6,2.6,£1.44,9
+T00142,18/06/2026,14:35,Thursday,Frozen Chips,Frozen,3,£2.25,No,19,0,4,3.7,£6.75,14
+T00143,16/08/2026,17:15,Sunday,Tomatoes,Fresh Produce,3,£1.49,No,47,0,8,5.7,£4.47,17
+T00144,03/07/2026,16:40,Friday,Greek Yogurt,Dairy,1,£1.85,No,14,0,4,3.5,£1.85,16
+T00145,11/07/2026,17:30,Saturday,Frozen Pizza,Frozen,1,£3.49,No,39,0,7,4.4,£3.49,17
+T00146,09/08/2026,12:30,Sunday,Frozen Chips,Frozen,2,£1.91,Yes,37,0,7,5.1,£3.82,12
+T00147,02/06/2026,16:05,Tuesday,Washing Liquid,Household,1,£3.99,No,11,0,7,2.3,£3.99,16
+T00148,09/08/2026,14:40,Sunday,Kitchen Roll,Household,1,£3.29,No,36,0,6,2.3,£3.29,14
+T00149,07/08/2026,13:10,Friday,White Bread,Bakery,2,£1.18,Yes,23,0,6,3.9,£2.36,13
+T00150,28/07/2026,14:40,Tuesday,Frozen Pizza,Frozen,1,£3.49,No,47,0,4,3.2,£3.49,14
+T00151,22/08/2026,13:40,Saturday,Frozen Pizza,Frozen,1,£3.49,No,27,0,7,5.3,£3.49,13
+T00152,28/08/2026,07:55,Friday,Kitchen Roll,Household,1,£3.29,No,19,0,4,3.0,£3.29,7
+T00153,22/08/2026,08:50,Saturday,Ice Cream,Frozen,3,£3.95,No,16,0,7,2.0,£11.85,8
+T00154,28/06/2026,09:30,Sunday,Cola 2L,Drinks,1,£1.49,Yes,24,0,5,3.2,£1.49,9
+T00155,04/08/2026,19:20,Tuesday,Cola 2L,Drinks,1,£1.75,No,55,0,9,4.3,£1.75,19
+T00156,05/06/2026,16:10,Friday,Milk 2L,Dairy,1,£1.32,Yes,6,1,5,4.9,£1.32,16
+T00157,07/06/2026,16:45,Sunday,Tomatoes,Fresh Produce,2,£1.49,No,33,2,7,2.2,£2.98,16
+T00158,26/07/2026,19:35,Sunday,Apples,Fresh Produce,1,£1.79,No,49,0,7,3.7,£1.79,19
+T00159,08/07/2026,16:40,Wednesday,Cola 2L,Drinks,1,£1.75,No,60,0,6,2.5,£1.75,16
+T00160,01/08/2026,18:45,Saturday,Cheddar Cheese,Dairy,1,£2.79,No,43,1,9,6.0,£2.79,18
+T00161,03/07/2026,14:00,Friday,Cheddar Cheese,Dairy,3,£2.79,No,5,0,5,3.4,£8.37,14
+T00162,21/07/2026,16:30,Tuesday,Apples,Fresh Produce,1,£1.52,Yes,3,2,4,4.0,£1.52,16
+T00163,12/07/2026,13:35,Sunday,Apples,Fresh Produce,2,£1.79,No,21,0,7,4.4,£3.58,13
+T00164,19/07/2026,19:50,Sunday,Cheddar Cheese,Dairy,2,£2.37,Yes,29,0,9,4.1,£4.74,19
+T00165,25/07/2026,14:35,Saturday,Washing Liquid,Household,2,£3.99,No,51,0,6,2.6,£7.98,14
+T00166,29/08/2026,18:10,Saturday,Croissants,Bakery,3,£1.99,No,52,1,7,3.9,£5.97,18
+T00167,13/06/2026,13:40,Saturday,Bananas,Fresh Produce,1,£0.95,No,53,1,7,2.9,£0.95,13
+T00168,24/08/2026,21:20,Monday,Greek Yogurt,Dairy,3,£1.85,No,3,0,6,2.1,£5.55,21
+T00169,11/08/2026,14:15,Tuesday,Washing Liquid,Household,2,£3.99,No,9,0,4,3.7,£7.98,14
+T00170,17/07/2026,14:45,Friday,Frozen Chips,Frozen,1,£2.25,No,38,1,5,2.8,£2.25,14
+T00171,22/08/2026,18:20,Saturday,Chocolate Cookies,Bakery,1,£1.69,No,7,0,9,4.7,£1.69,18
+T00172,08/07/2026,17:50,Wednesday,Ice Cream,Frozen,4,£3.36,Yes,59,0,8,5.0,£13.44,17
+T00173,11/07/2026,12:40,Saturday,Orange Juice,Drinks,2,£1.89,No,44,0,9,5.4,£3.78,12
+T00174,19/07/2026,07:35,Sunday,White Bread,Bakery,1,£1.18,Yes,5,0,5,5.1,£1.18,7
+T00175,02/07/2026,12:30,Thursday,White Bread,Bakery,1,£1.18,Yes,27,2,6,4.8,£1.18,12
+T00176,29/08/2026,16:55,Saturday,Croissants,Bakery,3,£1.99,No,4,3,6,1.6,£5.97,16
+T00177,11/08/2026,09:25,Tuesday,Bottled Water 6pk,Drinks,2,£2.49,No,6,0,7,2.0,£4.98,9
+T00178,15/08/2026,21:10,Saturday,Washing Liquid,Household,1,£3.99,No,38,0,4,4.6,£3.99,21
+T00179,29/08/2026,19:25,Saturday,Washing Liquid,Household,4,£3.99,No,33,0,9,4.6,£15.96,19
+T00180,04/06/2026,10:55,Thursday,Orange Juice,Drinks,1,£1.89,No,24,0,4,4.5,£1.89,10
+T00181,03/07/2026,18:40,Friday,Kitchen Roll,Household,1,£3.29,No,40,0,7,3.8,£3.29,18
+T00182,25/08/2026,17:30,Tuesday,Orange Juice,Drinks,1,£1.61,Yes,17,0,6,5.1,£1.61,17
+T00183,10/07/2026,19:50,Friday,Orange Juice,Drinks,2,£1.89,No,12,0,6,3.7,£3.78,19
+T00184,25/06/2026,12:05,Thursday,Washing Liquid,Household,2,£3.39,Yes,7,0,7,3.1,£6.78,12
+T00185,26/07/2026,18:50,Sunday,Milk 2L,Dairy,1,£1.55,No,20,0,7,5.8,£1.55,18
+T00186,08/06/2026,09:50,Monday,Frozen Chips,Frozen,2,£2.25,No,32,0,5,3.8,£4.50,9
+T00187,08/07/2026,14:50,Wednesday,Apples,Fresh Produce,1,£1.79,No,47,0,5,4.0,£1.79,14
+T00188,10/06/2026,12:15,Wednesday,Orange Juice,Drinks,2,£1.61,Yes,12,0,7,6.7,£3.22,12
+T00189,04/07/2026,19:15,Saturday,Greek Yogurt,Dairy,2,£1.57,Yes,18,0,8,3.6,£3.14,19
+T00190,06/08/2026,14:35,Thursday,Frozen Pizza,Frozen,2,£3.49,No,48,0,6,2.7,£6.98,14
+T00191,29/06/2026,12:30,Monday,Frozen Chips,Frozen,1,£1.91,Yes,53,0,8,4.2,£1.91,12
+T00192,22/08/2026,13:15,Saturday,Kitchen Roll,Household,1,£2.80,Yes,32,0,7,4.5,£2.80,13
+T00193,18/07/2026,18:00,Saturday,Bananas,Fresh Produce,1,£0.95,No,55,0,9,3.6,£0.95,18
+T00194,20/06/2026,12:25,Saturday,Frozen Chips,Frozen,2,£2.25,No,55,0,6,3.7,£4.50,12
+T00195,23/07/2026,18:40,Thursday,Orange Juice,Drinks,1,£1.89,No,57,0,8,5.0,£1.89,18
+T00196,02/08/2026,17:00,Sunday,Greek Yogurt,Dairy,3,£1.57,Yes,21,0,9,3.5,£4.71,17
+T00197,08/06/2026,08:30,Monday,Apples,Fresh Produce,1,£1.52,Yes,18,0,5,3.0,£1.52,8
+T00198,09/08/2026,12:40,Sunday,Croissants,Bakery,2,£1.69,Yes,47,1,8,4.5,£3.38,12
+T00199,26/08/2026,16:20,Wednesday,Frozen Chips,Frozen,2,£2.25,No,14,0,7,1.9,£4.50,16
+T00200,19/06/2026,12:40,Friday,Ice Cream,Frozen,1,£3.95,No,14,0,7,5.5,£3.95,12
+T00201,21/06/2026,19:05,Sunday,Tomatoes,Fresh Produce,1,£1.49,No,43,0,6,4.9,£1.49,19
+T00202,22/06/2026,16:40,Monday,Ice Cream,Frozen,4,£3.95,No,53,1,6,1.9,£15.80,16
+T00203,11/06/2026,07:40,Thursday,Cheddar Cheese,Dairy,1,£2.37,Yes,31,0,5,2.8,£2.37,7
+T00204,18/07/2026,08:10,Saturday,Bottled Water 6pk,Drinks,3,£2.49,No,8,0,4,2.5,£7.47,8
+T00205,08/07/2026,20:45,Wednesday,Orange Juice,Drinks,1,£1.89,No,30,0,5,2.9,£1.89,20
+T00206,30/08/2026,17:55,Sunday,Bananas,Fresh Produce,1,£0.95,No,4,0,9,4.2,£0.95,17
+T00207,04/06/2026,14:15,Thursday,Greek Yogurt,Dairy,1,£1.85,No,35,1,5,2.6,£1.85,14
+T00208,02/06/2026,19:10,Tuesday,Greek Yogurt,Dairy,1,£1.85,No,43,0,6,6.0,£1.85,19
+T00209,09/08/2026,14:00,Sunday,Croissants,Bakery,1,£1.99,No,34,1,4,3.5,£1.99,14
+T00210,01/06/2026,14:40,Monday,White Bread,Bakery,1,£1.39,No,15,0,4,4.4,£1.39,14
+T00211,09/08/2026,18:10,Sunday,Bin Bags,Household,1,£2.69,No,24,0,9,4.6,£2.69,18
+T00212,29/08/2026,14:15,Saturday,Cola 2L,Drinks,1,£1.75,No,46,0,6,1.6,£1.75,14
+T00213,03/08/2026,16:35,Monday,Frozen Chips,Frozen,2,£2.25,No,34,0,6,2.6,£4.50,16
+T00214,01/08/2026,08:15,Saturday,Milk 2L,Dairy,1,£1.55,No,14,0,5,2.5,£1.55,8
+T00215,10/07/2026,16:00,Friday,Orange Juice,Drinks,4,£1.89,No,28,0,7,1.5,£7.56,16
+T00216,14/08/2026,08:00,Friday,Greek Yogurt,Dairy,1,£1.57,Yes,51,0,7,2.5,£1.57,8
+T00217,15/06/2026,19:45,Monday,Bin Bags,Household,1,£2.69,No,57,0,9,4.8,£2.69,19
+T00218,23/08/2026,13:35,Sunday,Ice Cream,Frozen,1,£3.95,No,21,0,7,4.6,£3.95,13
+T00219,06/06/2026,15:40,Saturday,Ice Cream,Frozen,1,£3.95,No,23,0,5,5.0,£3.95,15
+T00220,27/08/2026,08:10,Thursday,Cola 2L,Drinks,1,£1.75,No,10,0,6,1.8,£1.75,8
+T00221,24/07/2026,16:45,Friday,Cola 2L,Drinks,3,£1.49,Yes,26,0,6,1.7,£4.47,16
+T00222,10/08/2026,13:55,Monday,Bin Bags,Household,1,£2.69,No,36,0,9,4.3,£2.69,13
+T00223,30/08/2026,19:30,Sunday,Milk 2L,Dairy,2,£1.32,Yes,60,0,7,3.5,£2.64,19
+T00224,09/07/2026,12:25,Thursday,Frozen Chips,Frozen,4,£2.25,No,33,0,7,4.4,£9.00,12
+T00225,26/06/2026,14:55,Friday,Frozen Pizza,Frozen,1,£3.49,No,19,0,4,4.1,£3.49,14
+T00226,06/07/2026,12:05,Monday,Apples,Fresh Produce,3,£1.79,No,59,0,9,6.0,£5.37,12
+T00227,24/06/2026,18:55,Wednesday,Tomatoes,Fresh Produce,3,£1.27,Yes,6,0,8,5.2,£3.81,18
+T00228,16/06/2026,16:15,Tuesday,Milk 2L,Dairy,1,£1.32,Yes,52,0,6,1.3,£1.32,16
+T00229,06/06/2026,16:30,Saturday,Apples,Fresh Produce,2,£1.79,No,21,2,5,3.4,£3.58,16
+T00230,27/07/2026,15:05,Monday,Tomatoes,Fresh Produce,1,£1.27,Yes,6,0,4,4.2,£1.27,15
+T00231,10/07/2026,12:30,Friday,Orange Juice,Drinks,1,£1.89,No,50,0,9,4.1,£1.89,12
+T00232,14/07/2026,10:05,Tuesday,Greek Yogurt,Dairy,1,£1.85,No,34,0,4,3.5,£1.85,10
+T00233,04/08/2026,21:30,Tuesday,Orange Juice,Drinks,1,£1.89,No,40,0,7,1.0,£1.89,21
+T00234,06/06/2026,16:30,Saturday,Washing Liquid,Household,2,£3.99,No,14,0,7,1.0,£7.98,16
+T00235,10/06/2026,19:30,Wednesday,Tomatoes,Fresh Produce,1,£1.49,No,46,0,7,4.6,£1.49,19
+T00236,17/06/2026,08:20,Wednesday,Apples,Fresh Produce,1,£1.52,Yes,53,1,4,4.4,£1.52,8
+T00237,28/06/2026,11:05,Sunday,Milk 2L,Dairy,1,£1.55,No,27,0,4,2.8,£1.55,11
+T00238,19/08/2026,14:20,Wednesday,Croissants,Bakery,2,£1.99,No,31,0,4,2.4,£3.98,14
+T00239,29/06/2026,14:50,Monday,Ice Cream,Frozen,1,£3.36,Yes,3,0,6,1.9,£3.36,14
+T00240,05/06/2026,17:30,Friday,Apples,Fresh Produce,2,£1.79,No,45,0,9,4.3,£3.58,17
+T00241,18/07/2026,13:20,Saturday,Bottled Water 6pk,Drinks,1,£2.49,No,30,0,6,3.7,£2.49,13
+T00242,09/07/2026,21:50,Thursday,Frozen Pizza,Frozen,1,£3.49,No,37,0,7,1.1,£3.49,21
+T00243,16/06/2026,16:00,Tuesday,Chocolate Cookies,Bakery,1,£1.44,Yes,36,0,4,3.5,£1.44,16
+T00244,20/07/2026,19:05,Monday,Bananas,Fresh Produce,2,£0.95,No,12,2,7,3.7,£1.90,19
+T00245,30/07/2026,12:05,Thursday,Ice Cream,Frozen,2,£3.36,Yes,22,0,8,3.8,£6.72,12
+T00246,04/07/2026,14:20,Saturday,Orange Juice,Drinks,3,£1.89,No,27,0,6,2.7,£5.67,14
+T00247,01/08/2026,14:30,Saturday,Chocolate Cookies,Bakery,1,£1.44,Yes,10,0,6,2.4,£1.44,14
+T00248,01/06/2026,10:55,Monday,Bin Bags,Household,2,£2.69,No,8,0,7,1.0,£5.38,10
+T00249,12/08/2026,14:25,Wednesday,Apples,Fresh Produce,1,£1.52,Yes,14,0,6,3.0,£1.52,14
+T00250,28/06/2026,16:30,Sunday,Chocolate Cookies,Bakery,1,£1.69,No,14,3,6,2.4,£1.69,16
+T00251,27/06/2026,16:00,Saturday,Orange Juice,Drinks,3,£1.89,No,18,0,7,1.3,£5.67,16
+T00252,17/07/2026,12:40,Friday,Tomatoes,Fresh Produce,1,£1.49,No,13,0,7,3.6,£1.49,12
+T00253,13/08/2026,16:55,Thursday,Orange Juice,Drinks,1,£1.61,Yes,13,0,4,4.0,£1.61,16
+T00254,11/08/2026,17:55,Tuesday,Tomatoes,Fresh Produce,1,£1.49,No,8,0,8,6.1,£1.49,17
+T00255,20/06/2026,18:10,Saturday,Bottled Water 6pk,Drinks,2,£2.12,Yes,56,0,6,4.1,£4.24,18
+T00256,23/06/2026,19:40,Tuesday,Croissants,Bakery,1,£1.99,No,11,0,7,4.9,£1.99,19
+T00257,05/08/2026,11:00,Wednesday,Frozen Chips,Frozen,1,£2.25,No,7,0,4,3.6,£2.25,11
+T00258,23/08/2026,12:45,Sunday,Croissants,Bakery,1,£1.99,No,46,0,8,4.6,£1.99,12
+T00259,19/06/2026,14:55,Friday,Tomatoes,Fresh Produce,2,£1.49,No,12,0,5,3.6,£2.98,14
+T00260,20/06/2026,17:30,Saturday,Frozen Pizza,Frozen,2,£3.49,No,34,0,9,5.0,£6.98,17
+T00261,25/06/2026,14:15,Thursday,Apples,Fresh Produce,1,£1.79,No,35,0,4,4.0,£1.79,14
+T00262,03/07/2026,16:05,Friday,Milk 2L,Dairy,2,£1.55,No,38,0,7,1.6,£3.10,16
+T00263,13/07/2026,18:15,Monday,Orange Juice,Drinks,2,£1.61,Yes,29,0,7,6.4,£3.22,18
+T00264,21/08/2026,20:30,Friday,Frozen Pizza,Frozen,3,£3.49,No,16,0,5,3.0,£10.47,20
+T00265,17/06/2026,14:10,Wednesday,Frozen Pizza,Frozen,1,£2.97,Yes,46,0,4,3.2,£2.97,14
+T00266,26/07/2026,14:15,Sunday,Croissants,Bakery,1,£1.99,No,54,0,6,2.2,£1.99,14
+T00267,18/06/2026,16:10,Thursday,Kitchen Roll,Household,2,£2.80,Yes,11,0,6,2.1,£5.60,16
+T00268,28/06/2026,15:40,Sunday,Frozen Pizza,Frozen,4,£3.49,No,49,0,6,2.3,£13.96,15
+T00269,24/08/2026,20:30,Monday,Frozen Pizza,Frozen,3,£3.49,No,51,0,7,2.9,£10.47,20
+T00270,22/08/2026,20:05,Saturday,Greek Yogurt,Dairy,2,£1.85,No,47,0,7,1.4,£3.70,20
+T00271,06/06/2026,12:30,Saturday,Orange Juice,Drinks,2,£1.89,No,5,0,7,6.0,£3.78,12
+T00272,02/07/2026,17:20,Thursday,Bottled Water 6pk,Drinks,2,£2.49,No,5,0,8,4.6,£4.98,17
+T00273,12/07/2026,15:15,Sunday,Washing Liquid,Household,3,£3.99,No,42,0,4,4.1,£11.97,15
+T00274,16/07/2026,11:20,Thursday,Bananas,Fresh Produce,2,£0.95,No,41,1,4,4.3,£1.90,11
+T00275,17/06/2026,12:05,Wednesday,Frozen Chips,Frozen,1,£2.25,No,53,0,6,6.3,£2.25,12
+T00276,07/07/2026,19:00,Tuesday,Bottled Water 6pk,Drinks,1,£2.49,No,39,0,6,6.5,£2.49,19
+T00277,18/06/2026,14:40,Thursday,Washing Liquid,Household,3,£3.99,No,58,0,7,2.2,£11.97,14
+T00278,09/06/2026,16:20,Tuesday,Chocolate Cookies,Bakery,3,£1.69,No,58,2,5,4.7,£5.07,16
+T00279,02/06/2026,12:15,Tuesday,Croissants,Bakery,1,£1.99,No,16,0,6,5.8,£1.99,12
+T00280,02/07/2026,14:15,Thursday,Chocolate Cookies,Bakery,2,£1.69,No,50,2,6,1.3,£3.38,14
+T00281,01/07/2026,08:30,Wednesday,Ice Cream,Frozen,1,£3.36,Yes,9,0,6,2.0,£3.36,8
+T00282,08/07/2026,14:05,Wednesday,Cola 2L,Drinks,1,£1.75,No,43,0,4,4.1,£1.75,14
+T00283,19/06/2026,14:15,Friday,Bin Bags,Household,1,£2.69,No,24,0,6,1.4,£2.69,14
+T00284,30/08/2026,13:05,Sunday,Apples,Fresh Produce,1,£1.52,Yes,10,3,8,3.0,£1.52,13
+T00285,08/08/2026,18:35,Saturday,Milk 2L,Dairy,1,£1.32,Yes,36,0,7,4.6,£1.32,18
+T00286,01/06/2026,18:55,Monday,Apples,Fresh Produce,2,£1.52,Yes,28,0,9,5.5,£3.04,18
+T00287,02/06/2026,16:10,Tuesday,Orange Juice,Drinks,3,£1.89,No,50,0,4,2.0,£5.67,16
+T00288,13/08/2026,14:05,Thursday,Croissants,Bakery,1,£1.99,No,28,2,4,5.0,£1.99,14
+T00289,26/08/2026,12:05,Wednesday,Croissants,Bakery,2,£1.99,No,38,0,6,4.5,£3.98,12
+T00290,03/07/2026,14:50,Friday,White Bread,Bakery,2,£1.39,No,8,1,7,1.5,£2.78,14
+T00291,03/07/2026,12:50,Friday,Orange Juice,Drinks,2,£1.61,Yes,49,0,9,5.0,£3.22,12
+T00292,11/07/2026,13:10,Saturday,Cola 2L,Drinks,3,£1.75,No,30,1,8,5.4,£5.25,13
+T00293,23/06/2026,17:20,Tuesday,Cheddar Cheese,Dairy,1,£2.79,No,8,0,7,5.7,£2.79,17
+T00294,01/06/2026,13:00,Monday,Bottled Water 6pk,Drinks,1,£2.12,Yes,50,0,7,4.8,£2.12,13
+T00295,06/06/2026,10:55,Saturday,Apples,Fresh Produce,1,£1.79,No,18,0,5,2.8,£1.79,10
+T00296,31/07/2026,16:10,Friday,Cola 2L,Drinks,2,£1.75,No,45,0,5,3.3,£3.50,16
+T00297,16/06/2026,19:30,Tuesday,Bottled Water 6pk,Drinks,2,£2.49,No,22,0,7,5.3,£4.98,19
+T00298,12/06/2026,17:55,Friday,Orange Juice,Drinks,2,£1.89,No,57,0,9,2.9,£3.78,17
+T00299,22/07/2026,19:50,Wednesday,Bottled Water 6pk,Drinks,1,£2.49,No,35,0,9,3.4,£2.49,19
+T00300,26/06/2026,18:45,Friday,Frozen Chips,Frozen,1,£2.25,No,39,0,7,4.9,£2.25,18
+T00301,11/08/2026,18:30,Tuesday,Greek Yogurt,Dairy,1,£1.85,No,58,0,7,6.5,£1.85,18
+T00302,05/07/2026,20:50,Sunday,Greek Yogurt,Dairy,1,£1.57,Yes,55,0,6,1.4,£1.57,20
+T00303,07/06/2026,14:05,Sunday,Milk 2L,Dairy,2,£1.55,No,35,0,5,4.4,£3.10,14
+T00304,18/06/2026,12:00,Thursday,Apples,Fresh Produce,2,£1.52,Yes,36,0,8,5.5,£3.04,12
+T00305,20/06/2026,18:50,Saturday,Cola 2L,Drinks,1,£1.75,No,41,0,6,5.1,£1.75,18
+T00306,18/07/2026,16:55,Saturday,Bin Bags,Household,1,£2.29,Yes,31,0,5,4.0,£2.29,16
+T00307,19/07/2026,21:45,Sunday,Bottled Water 6pk,Drinks,1,£2.49,No,23,0,6,1.4,£2.49,21
+T00308,21/08/2026,13:55,Friday,Frozen Pizza,Frozen,3,£2.97,Yes,5,0,7,5.7,£8.91,13
+T00309,08/06/2026,12:05,Monday,White Bread,Bakery,2,£1.39,No,18,1,9,5.1,£2.78,12
+T00310,22/08/2026,11:45,Saturday,Bottled Water 6pk,Drinks,1,£2.49,No,41,0,6,2.5,£2.49,11
+T00311,24/08/2026,20:15,Monday,Frozen Pizza,Frozen,3,£3.49,No,37,0,4,4.0,£10.47,20
+T00312,20/06/2026,13:25,Saturday,Kitchen Roll,Household,1,£3.29,No,27,0,9,4.8,£3.29,13
+T00313,30/07/2026,20:30,Thursday,Bin Bags,Household,2,£2.69,No,16,0,7,1.2,£5.38,20
+T00314,03/06/2026,17:20,Wednesday,Ice Cream,Frozen,2,£3.95,No,3,0,7,4.0,£7.90,17
+T00315,18/07/2026,17:55,Saturday,Tomatoes,Fresh Produce,1,£1.49,No,59,1,6,5.1,£1.49,17
+T00316,24/08/2026,20:50,Monday,Kitchen Roll,Household,1,£3.29,No,55,0,4,4.0,£3.29,20
+T00317,27/06/2026,13:05,Saturday,Chocolate Cookies,Bakery,1,£1.44,Yes,36,0,7,6.6,£1.44,13
+T00318,28/08/2026,13:40,Friday,White Bread,Bakery,1,£1.39,No,24,0,8,5.0,£1.39,13
+T00319,20/07/2026,17:45,Monday,Frozen Pizza,Frozen,3,£3.49,No,32,0,7,3.4,£10.47,17
+T00320,18/08/2026,10:50,Tuesday,Bin Bags,Household,1,£2.69,No,51,0,7,1.2,£2.69,10
+T00321,29/08/2026,13:35,Saturday,Frozen Pizza,Frozen,1,£3.49,No,53,0,6,3.0,£3.49,13
+T00322,09/07/2026,19:15,Thursday,Milk 2L,Dairy,1,£1.55,No,29,0,9,6.2,£1.55,19
+T00323,25/07/2026,19:05,Saturday,Frozen Pizza,Frozen,2,£3.49,No,43,1,7,4.5,£6.98,19
+T00324,23/08/2026,20:40,Sunday,Croissants,Bakery,2,£1.69,Yes,21,1,7,2.0,£3.38,20
+T00325,28/07/2026,14:35,Tuesday,Bin Bags,Household,1,£2.69,No,3,0,5,3.2,£2.69,14
+T00326,16/08/2026,11:15,Sunday,Apples,Fresh Produce,2,£1.79,No,24,1,5,3.2,£3.58,11
+T00327,06/06/2026,19:00,Saturday,Croissants,Bakery,2,£1.99,No,43,0,9,6.1,£3.98,19
+T00328,10/08/2026,19:15,Monday,Croissants,Bakery,1,£1.69,Yes,44,0,7,6.7,£1.69,19
+T00329,24/06/2026,19:20,Wednesday,Chocolate Cookies,Bakery,1,£1.44,Yes,40,0,6,5.7,£1.44,19
+T00330,10/08/2026,13:25,Monday,Milk 2L,Dairy,1,£1.55,No,16,0,7,4.4,£1.55,13
+T00331,23/06/2026,07:00,Tuesday,Bin Bags,Household,2,£2.29,Yes,51,0,4,4.1,£4.58,7
+T00332,03/06/2026,19:20,Wednesday,Frozen Pizza,Frozen,1,£2.97,Yes,54,0,9,4.2,£2.97,19
+T00333,18/07/2026,18:00,Saturday,Tomatoes,Fresh Produce,1,£1.49,No,10,0,8,3.9,£1.49,18
+T00334,19/07/2026,17:10,Sunday,Bananas,Fresh Produce,1,£0.95,No,27,0,9,4.5,£0.95,17
+T00335,21/08/2026,17:55,Friday,Frozen Chips,Frozen,4,£2.25,No,48,0,9,5.1,£9.00,17
+T00336,16/08/2026,13:30,Sunday,Ice Cream,Frozen,2,£3.95,No,45,0,8,6.1,£7.90,13
+T00337,11/06/2026,19:35,Thursday,Washing Liquid,Household,1,£3.39,Yes,11,0,6,4.0,£3.39,19
+T00338,23/07/2026,11:05,Thursday,Chocolate Cookies,Bakery,1,£1.69,No,52,1,7,1.6,£1.69,11
+T00339,04/07/2026,09:10,Saturday,Greek Yogurt,Dairy,3,£1.85,No,22,0,6,2.3,£5.55,9
+T00340,26/06/2026,16:05,Friday,Bottled Water 6pk,Drinks,1,£2.49,No,29,0,4,4.4,£2.49,16
+T00341,16/06/2026,21:25,Tuesday,Apples,Fresh Produce,3,£1.52,Yes,58,0,4,4.7,£4.56,21
+T00342,12/07/2026,13:40,Sunday,Apples,Fresh Produce,1,£1.79,No,22,0,7,5.5,£1.79,13
+T00343,01/07/2026,16:20,Wednesday,Cheddar Cheese,Dairy,1,£2.37,Yes,45,0,7,1.5,£2.37,16
+T00344,14/08/2026,07:45,Friday,White Bread,Bakery,2,£1.39,No,48,0,4,4.2,£2.78,7
+T00345,12/06/2026,18:30,Friday,Kitchen Roll,Household,1,£3.29,No,38,0,6,4.8,£3.29,18
+T00346,10/06/2026,19:55,Wednesday,Bin Bags,Household,3,£2.69,No,60,0,8,5.6,£8.07,19
+T00347,10/06/2026,13:20,Wednesday,Chocolate Cookies,Bakery,2,£1.69,No,33,1,9,4.8,£3.38,13
+T00348,26/07/2026,18:20,Sunday,Milk 2L,Dairy,1,£1.32,Yes,25,0,7,4.1,£1.32,18
+T00349,23/06/2026,14:15,Tuesday,White Bread,Bakery,1,£1.18,Yes,55,0,6,1.4,£1.18,14
+T00350,04/07/2026,18:50,Saturday,Bottled Water 6pk,Drinks,1,£2.49,No,44,0,6,4.8,£2.49,18
+T00351,13/06/2026,19:50,Saturday,Tomatoes,Fresh Produce,1,£1.49,No,40,0,6,3.8,£1.49,19
+T00352,29/07/2026,18:00,Wednesday,Cheddar Cheese,Dairy,1,£2.79,No,40,0,6,4.2,£2.79,18
+T00353,27/07/2026,17:30,Monday,Ice Cream,Frozen,1,£3.95,No,30,0,8,2.7,£3.95,17
+T00354,02/06/2026,10:15,Tuesday,Greek Yogurt,Dairy,4,£1.57,Yes,46,1,6,1.3,£6.28,10
+T00355,26/06/2026,18:00,Friday,Cola 2L,Drinks,1,£1.75,No,10,0,8,4.5,£1.75,18
+T00356,07/07/2026,16:05,Tuesday,White Bread,Bakery,2,£1.39,No,34,0,4,2.5,£2.78,16
+T00357,22/06/2026,15:00,Monday,Bin Bags,Household,2,£2.29,Yes,10,0,4,3.8,£4.58,15
+T00358,01/07/2026,09:10,Wednesday,Greek Yogurt,Dairy,1,£1.85,No,36,0,5,3.9,£1.85,9
+T00359,20/06/2026,20:00,Saturday,Croissants,Bakery,1,£1.69,Yes,54,0,6,2.8,£1.69,20
+T00360,14/06/2026,18:50,Sunday,Ice Cream,Frozen,1,£3.95,No,36,0,7,5.2,£3.95,18
+T00361,02/08/2026,18:25,Sunday,Orange Juice,Drinks,2,£1.61,Yes,39,0,9,4.4,£3.22,18
+T00362,02/08/2026,14:40,Sunday,Bottled Water 6pk,Drinks,1,£2.49,No,56,0,4,3.5,£2.49,14
+T00363,13/08/2026,13:35,Thursday,Cheddar Cheese,Dairy,1,£2.79,No,60,0,6,5.0,£2.79,13
+T00364,25/06/2026,09:30,Thursday,Bananas,Fresh Produce,2,£0.81,Yes,46,1,6,1.3,£1.62,9
+T00365,02/06/2026,17:15,Tuesday,Ice Cream,Frozen,2,£3.95,No,29,0,6,5.9,£7.90,17
+T00366,11/06/2026,14:40,Thursday,Bananas,Fresh Produce,4,£0.81,Yes,49,0,6,1.4,£3.24,14
+T00367,03/06/2026,12:40,Wednesday,Cola 2L,Drinks,2,£1.75,No,9,0,8,4.9,£3.50,12
+T00368,08/08/2026,10:40,Saturday,Bottled Water 6pk,Drinks,1,£2.49,No,52,0,6,1.0,£2.49,10
+T00369,11/07/2026,08:05,Saturday,Milk 2L,Dairy,4,£1.55,No,6,0,4,3.7,£6.20,8
+T00370,29/07/2026,16:55,Wednesday,Washing Liquid,Household,2,£3.39,Yes,52,0,6,1.1,£6.78,16
+T00371,28/08/2026,14:35,Friday,Washing Liquid,Household,1,£3.39,Yes,25,0,5,4.3,£3.39,14
+T00372,29/06/2026,13:00,Monday,Croissants,Bakery,1,£1.69,Yes,53,0,6,5.7,£1.69,13
+T00373,15/06/2026,21:35,Monday,Apples,Fresh Produce,2,£1.52,Yes,11,2,4,4.8,£3.04,21
+T00374,03/06/2026,10:10,Wednesday,Washing Liquid,Household,2,£3.99,No,12,0,5,2.5,£7.98,10
+T00375,22/08/2026,15:55,Saturday,White Bread,Bakery,2,£1.18,Yes,37,2,5,2.8,£2.36,15
+T00376,12/07/2026,21:35,Sunday,Frozen Pizza,Frozen,1,£3.49,No,27,1,4,4.3,£3.49,21
+T00377,05/07/2026,19:35,Sunday,Cheddar Cheese,Dairy,1,£2.79,No,9,0,6,3.1,£2.79,19
+T00378,17/08/2026,09:55,Monday,Bottled Water 6pk,Drinks,1,£2.49,No,25,0,6,1.9,£2.49,9
+T00379,29/06/2026,18:25,Monday,Washing Liquid,Household,1,£3.39,Yes,46,0,7,6.0,£3.39,18
+T00380,26/06/2026,16:20,Friday,Frozen Pizza,Frozen,4,£3.49,No,57,0,7,2.9,£13.96,16
+T00381,18/08/2026,18:35,Tuesday,Kitchen Roll,Household,2,£3.29,No,12,0,8,4.6,£6.58,18
+T00382,30/06/2026,13:30,Tuesday,Croissants,Bakery,2,£1.69,Yes,41,1,7,3.5,£3.38,13
+T00383,08/08/2026,14:05,Saturday,Washing Liquid,Household,1,£3.99,No,57,0,4,4.4,£3.99,14
+T00384,21/07/2026,12:20,Tuesday,Milk 2L,Dairy,1,£1.55,No,12,0,9,4.1,£1.55,12
+T00385,04/06/2026,19:50,Thursday,White Bread,Bakery,1,£1.39,No,24,0,9,6.4,£1.39,19
+T00386,27/07/2026,12:05,Monday,Bananas,Fresh Produce,1,£0.95,No,19,0,7,6.0,£0.95,12
+T00387,26/06/2026,14:40,Friday,Cheddar Cheese,Dairy,2,£2.37,Yes,34,0,6,3.0,£4.74,14
+T00388,11/08/2026,12:25,Tuesday,White Bread,Bakery,1,£1.39,No,35,1,6,4.2,£1.39,12
+T00389,30/08/2026,12:00,Sunday,Washing Liquid,Household,1,£3.99,No,43,0,8,5.8,£3.99,12
+T00390,12/07/2026,14:55,Sunday,Bin Bags,Household,1,£2.29,Yes,58,0,6,1.4,£2.29,14
+T00391,27/07/2026,12:20,Monday,Apples,Fresh Produce,2,£1.52,Yes,6,3,6,4.1,£3.04,12
+T00392,30/07/2026,18:15,Thursday,White Bread,Bakery,1,£1.39,No,38,0,7,4.6,£1.39,18
+T00393,16/07/2026,08:20,Thursday,Washing Liquid,Household,1,£3.39,Yes,19,0,6,2.3,£3.39,8
+T00394,29/07/2026,12:05,Wednesday,Bin Bags,Household,1,£2.29,Yes,16,0,6,4.0,£2.29,12
+T00395,09/08/2026,12:00,Sunday,Bananas,Fresh Produce,1,£0.95,No,4,3,7,3.6,£0.95,12
+T00396,02/06/2026,19:30,Tuesday,Bananas,Fresh Produce,3,£0.95,No,45,0,9,4.2,£2.85,19
+T00397,15/08/2026,07:45,Saturday,Chocolate Cookies,Bakery,1,£1.69,No,30,0,5,3.1,£1.69,7
+T00398,11/08/2026,18:10,Tuesday,White Bread,Bakery,2,£1.39,No,12,1,7,5.7,£2.78,18
+T00399,15/07/2026,12:15,Wednesday,Croissants,Bakery,3,£1.99,No,17,3,7,3.8,£5.97,12
+T00400,01/08/2026,12:35,Saturday,Croissants,Bakery,1,£1.99,No,45,2,6,3.7,£1.99,12
+T00401,21/08/2026,17:30,Friday,Frozen Pizza,Frozen,1,£3.49,No,17,0,9,4.9,£3.49,17
+T00402,13/08/2026,11:15,Thursday,Milk 2L,Dairy,1,£1.55,No,47,0,7,2.2,£1.55,11
+T00403,12/06/2026,09:05,Friday,Cola 2L,Drinks,4,£1.75,No,23,1,7,1.2,£7.00,9
+T00404,07/07/2026,07:55,Tuesday,Frozen Pizza,Frozen,3,£3.49,No,39,0,7,2.6,£10.47,7
+T00405,26/07/2026,16:05,Sunday,Kitchen Roll,Household,1,£3.29,No,40,0,6,2.4,£3.29,16
+T00406,28/07/2026,17:00,Tuesday,Bananas,Fresh Produce,2,£0.95,No,60,0,6,5.8,£1.90,17
+T00407,20/07/2026,08:55,Monday,Kitchen Roll,Household,2,£3.29,No,32,0,4,3.4,£6.58,8
+T00408,03/07/2026,16:55,Friday,Croissants,Bakery,2,£1.99,No,36,0,4,4.1,£3.98,16
+T00409,17/08/2026,13:10,Monday,Tomatoes,Fresh Produce,2,£1.49,No,43,1,9,5.1,£2.98,13
+T00410,15/07/2026,14:15,Wednesday,Bin Bags,Household,1,£2.69,No,42,1,7,2.1,£2.69,14
+T00411,07/06/2026,07:15,Sunday,Milk 2L,Dairy,1,£1.55,No,38,0,4,3.2,£1.55,7
+T00412,14/07/2026,16:10,Tuesday,Greek Yogurt,Dairy,1,£1.85,No,6,0,7,2.7,£1.85,16
+T00413,28/07/2026,14:50,Tuesday,Frozen Chips,Frozen,1,£1.91,Yes,53,0,5,3.7,£1.91,14
+T00414,19/08/2026,16:30,Wednesday,Greek Yogurt,Dairy,1,£1.85,No,47,0,4,3.0,£1.85,16
+T00415,25/08/2026,18:45,Tuesday,Ice Cream,Frozen,4,£3.95,No,6,0,7,5.1,£15.80,18
+T00416,07/07/2026,17:55,Tuesday,Frozen Chips,Frozen,1,£2.25,No,32,0,9,4.0,£2.25,17
+T00417,20/06/2026,18:45,Saturday,Apples,Fresh Produce,2,£1.52,Yes,38,1,6,4.7,£3.04,18
+T00418,10/07/2026,20:50,Friday,Cola 2L,Drinks,1,£1.75,No,3,1,4,4.9,£1.75,20
+T00419,19/07/2026,17:00,Sunday,Chocolate Cookies,Bakery,3,£1.69,No,41,0,6,4.9,£5.07,17
+T00420,09/06/2026,20:45,Tuesday,Tomatoes,Fresh Produce,1,£1.49,No,55,0,7,1.4,£1.49,20
+T00421,27/06/2026,18:50,Saturday,Kitchen Roll,Household,2,£3.29,No,6,0,7,5.9,£6.58,18
+T00422,28/06/2026,07:40,Sunday,Apples,Fresh Produce,1,£1.79,No,7,0,5,4.2,£1.79,7
+T00423,27/07/2026,14:35,Monday,Orange Juice,Drinks,2,£1.89,No,42,0,5,3.6,£3.78,14
+T00424,24/08/2026,17:50,Monday,Milk 2L,Dairy,2,£1.55,No,60,0,9,4.2,£3.10,17
+T00425,12/08/2026,08:40,Wednesday,Frozen Pizza,Frozen,1,£2.97,Yes,3,0,7,2.2,£2.97,8
+T00426,17/06/2026,13:30,Wednesday,Cola 2L,Drinks,4,£1.75,No,47,0,6,2.9,£7.00,13
+T00427,26/08/2026,12:20,Wednesday,Cola 2L,Drinks,2,£1.75,No,4,0,8,5.4,£3.50,12
+T00428,31/07/2026,13:45,Friday,Bottled Water 6pk,Drinks,2,£2.12,Yes,57,0,9,3.3,£4.24,13
+T00429,12/07/2026,19:55,Sunday,Kitchen Roll,Household,1,£3.29,No,19,0,9,4.9,£3.29,19
+T00430,08/06/2026,12:55,Monday,Orange Juice,Drinks,3,£1.89,No,30,0,6,4.1,£5.67,12
+T00431,27/07/2026,18:50,Monday,Orange Juice,Drinks,2,£1.89,No,13,0,8,5.4,£3.78,18
+T00432,02/08/2026,16:20,Sunday,Greek Yogurt,Dairy,1,£1.85,No,26,0,4,4.2,£1.85,16
+T00433,01/08/2026,15:10,Saturday,Apples,Fresh Produce,1,£1.52,Yes,27,0,7,2.6,£1.52,15
+T00434,09/08/2026,09:20,Sunday,Orange Juice,Drinks,1,£1.89,No,43,1,6,2.8,£1.89,9
+T00435,27/07/2026,15:45,Monday,Frozen Chips,Frozen,1,£2.25,No,11,1,7,2.6,£2.25,15
+T00436,04/06/2026,10:10,Thursday,Washing Liquid,Household,1,£3.99,No,45,0,6,1.9,£3.99,10
+T00437,01/07/2026,20:40,Wednesday,Tomatoes,Fresh Produce,2,£1.49,No,49,0,5,3.4,£2.98,20
+T00438,10/06/2026,12:40,Wednesday,Frozen Pizza,Frozen,1,£3.49,No,14,0,8,4.0,£3.49,12
+T00439,21/08/2026,18:05,Friday,Bananas,Fresh Produce,1,£0.95,No,15,1,9,3.0,£0.95,18
+T00440,06/08/2026,17:15,Thursday,Bottled Water 6pk,Drinks,2,£2.49,No,57,0,9,4.8,£4.98,17
+T00441,12/07/2026,08:35,Sunday,Bananas,Fresh Produce,1,£0.95,No,45,1,7,2.1,£0.95,8
+T00442,30/06/2026,18:25,Tuesday,Greek Yogurt,Dairy,2,£1.85,No,8,0,7,5.0,£3.70,18
+T00443,24/07/2026,16:45,Friday,Chocolate Cookies,Bakery,2,£1.69,No,22,0,4,4.1,£3.38,16
+T00444,25/07/2026,14:25,Saturday,Ice Cream,Frozen,2,£3.95,No,35,0,7,2.1,£7.90,14
+T00445,27/06/2026,18:55,Saturday,Orange Juice,Drinks,1,£1.89,No,11,0,6,5.8,£1.89,18
+T00446,22/07/2026,18:55,Wednesday,Orange Juice,Drinks,1,£1.89,No,55,0,7,4.0,£1.89,18
+T00447,23/06/2026,13:20,Tuesday,Milk 2L,Dairy,2,£1.55,No,28,0,7,4.1,£3.10,13
+T00448,21/06/2026,18:40,Sunday,Frozen Pizza,Frozen,1,£2.97,Yes,43,0,8,5.1,£2.97,18
+T00449,25/08/2026,13:50,Tuesday,Orange Juice,Drinks,1,£1.89,No,45,0,6,4.7,£1.89,13
+T00450,03/07/2026,19:45,Friday,Orange Juice,Drinks,2,£1.89,No,45,0,8,4.7,£3.78,19
+T00451,26/07/2026,17:05,Sunday,Apples,Fresh Produce,1,£1.79,No,28,0,6,4.7,£1.79,17
+T00452,18/06/2026,19:10,Thursday,Apples,Fresh Produce,1,£1.79,No,53,0,8,6.3,£1.79,19
+T00453,12/08/2026,17:00,Wednesday,Kitchen Roll,Household,1,£2.80,Yes,16,0,9,5.1,£2.80,17
+T00454,16/08/2026,16:55,Sunday,Orange Juice,Drinks,1,£1.89,No,6,0,4,2.9,£1.89,16
+T00455,07/08/2026,12:15,Friday,Croissants,Bakery,1,£1.99,No,25,0,7,4.4,£1.99,12
+T00456,05/06/2026,17:10,Friday,Milk 2L,Dairy,1,£1.55,No,60,0,8,5.2,£1.55,17
+T00457,12/07/2026,10:15,Sunday,Croissants,Bakery,3,£1.99,No,23,0,4,4.5,£5.97,10
+T00458,05/06/2026,14:45,Friday,Chocolate Cookies,Bakery,1,£1.69,No,43,0,6,2.3,£1.69,14
+T00459,08/08/2026,19:15,Saturday,Chocolate Cookies,Bakery,2,£1.44,Yes,44,1,8,3.4,£2.88,19
+T00460,28/06/2026,13:05,Sunday,Frozen Chips,Frozen,2,£1.91,Yes,44,0,8,2.7,£3.82,13
+T00461,06/08/2026,15:00,Thursday,Frozen Pizza,Frozen,2,£3.49,No,13,0,6,2.3,£6.98,15
+T00462,30/06/2026,16:20,Tuesday,Bottled Water 6pk,Drinks,1,£2.49,No,57,0,7,1.3,£2.49,16
+T00463,18/07/2026,17:50,Saturday,Milk 2L,Dairy,3,£1.55,No,23,0,9,5.2,£4.65,17
+T00464,27/06/2026,09:20,Saturday,Greek Yogurt,Dairy,2,£1.85,No,40,0,5,5.2,£3.70,9
+T00465,12/06/2026,21:30,Friday,Apples,Fresh Produce,1,£1.79,No,49,2,7,2.4,£1.79,21
+T00466,17/07/2026,16:00,Friday,Washing Liquid,Household,3,£3.99,No,16,0,4,3.3,£11.97,16
+T00467,10/06/2026,12:00,Wednesday,Washing Liquid,Household,1,£3.99,No,14,0,8,4.7,£3.99,12
+T00468,11/08/2026,17:50,Tuesday,Frozen Pizza,Frozen,3,£3.49,No,38,0,7,5.6,£10.47,17
+T00469,13/06/2026,19:25,Saturday,Milk 2L,Dairy,1,£1.32,Yes,3,0,8,3.1,£1.32,19
+T00470,23/06/2026,21:10,Tuesday,Ice Cream,Frozen,1,£3.95,No,44,0,4,4.7,£3.95,21
+T00471,12/08/2026,19:55,Wednesday,Greek Yogurt,Dairy,1,£1.85,No,32,0,8,4.8,£1.85,19
+T00472,28/07/2026,17:10,Tuesday,Bottled Water 6pk,Drinks,3,£2.49,No,60,0,7,5.1,£7.47,17
+T00473,13/06/2026,19:50,Saturday,Chocolate Cookies,Bakery,1,£1.69,No,56,0,7,4.5,£1.69,19
+T00474,10/06/2026,09:45,Wednesday,Washing Liquid,Household,2,£3.99,No,58,0,4,4.8,£7.98,9
+T00475,07/07/2026,16:50,Tuesday,White Bread,Bakery,1,£1.39,No,30,2,7,1.4,£1.39,16
+T00476,03/08/2026,19:15,Monday,Cola 2L,Drinks,1,£1.75,No,60,0,8,3.6,£1.75,19
+T00477,09/06/2026,13:45,Tuesday,Croissants,Bakery,3,£1.69,Yes,50,1,8,5.6,£5.07,13
+T00478,18/06/2026,11:15,Thursday,Frozen Pizza,Frozen,1,£3.49,No,7,0,7,2.5,£3.49,11
+T00479,21/07/2026,13:30,Tuesday,Ice Cream,Frozen,1,£3.36,Yes,25,0,7,3.2,£3.36,13
+T00480,20/07/2026,12:10,Monday,Orange Juice,Drinks,1,£1.89,No,28,0,9,4.8,£1.89,12
+T00481,14/06/2026,16:30,Sunday,Frozen Pizza,Frozen,1,£2.97,Yes,27,0,5,3.9,£2.97,16
+T00482,12/07/2026,17:15,Sunday,Bottled Water 6pk,Drinks,1,£2.49,No,58,0,9,4.7,£2.49,17
+T00483,03/08/2026,10:00,Monday,Washing Liquid,Household,1,£3.99,No,12,0,6,2.4,£3.99,10
+T00484,15/07/2026,12:45,Wednesday,Tomatoes,Fresh Produce,1,£1.49,No,54,1,9,4.2,£1.49,12
+T00485,03/07/2026,21:15,Friday,Frozen Chips,Frozen,3,£2.25,No,18,0,5,3.3,£6.75,21
+T00486,15/06/2026,18:45,Monday,Tomatoes,Fresh Produce,2,£1.49,No,32,0,6,4.5,£2.98,18
+T00487,10/08/2026,14:00,Monday,Orange Juice,Drinks,1,£1.61,Yes,5,0,7,2.3,£1.61,14
+T00488,24/06/2026,13:35,Wednesday,Croissants,Bakery,1,£1.69,Yes,12,2,7,4.0,£1.69,13
+T00489,16/07/2026,12:00,Thursday,Cola 2L,Drinks,1,£1.75,No,15,0,7,6.1,£1.75,12
+T00490,21/06/2026,18:05,Sunday,Orange Juice,Drinks,2,£1.61,Yes,38,0,8,4.4,£3.22,18
+T00491,25/07/2026,13:50,Saturday,Frozen Pizza,Frozen,1,£3.49,No,44,1,7,4.4,£3.49,13
+T00492,12/07/2026,19:25,Sunday,Frozen Pizza,Frozen,1,£3.49,No,47,0,6,4.8,£3.49,19
+T00493,29/07/2026,08:35,Wednesday,Apples,Fresh Produce,2,£1.52,Yes,44,0,4,2.3,£3.04,8
+T00494,19/08/2026,13:45,Wednesday,Orange Juice,Drinks,3,£1.61,Yes,27,0,9,5.5,£4.83,13
+T00495,19/07/2026,14:10,Sunday,Croissants,Bakery,3,£1.69,Yes,14,0,6,1.3,£5.07,14
+T00496,02/06/2026,15:55,Tuesday,Bananas,Fresh Produce,1,£0.81,Yes,29,0,4,4.0,£0.81,15
+T00497,01/08/2026,12:25,Saturday,Cola 2L,Drinks,2,£1.49,Yes,17,0,8,6.0,£2.98,12
+T00498,29/07/2026,10:45,Wednesday,Croissants,Bakery,1,£1.69,Yes,28,1,7,2.7,£1.69,10
+T00499,22/08/2026,17:55,Saturday,Chocolate Cookies,Bakery,2,£1.69,No,33,2,7,4.8,£3.38,17
+T00500,01/08/2026,12:20,Saturday,Bottled Water 6pk,Drinks,1,£2.12,Yes,46,0,6,5.0,£2.12,12
+T00501,25/08/2026,16:00,Tuesday,Greek Yogurt,Dairy,1,£1.85,No,43,0,7,1.6,£1.85,16
+T00502,13/08/2026,17:00,Thursday,Croissants,Bakery,1,£1.69,Yes,13,1,9,4.4,£1.69,17
+T00503,10/08/2026,16:00,Monday,Greek Yogurt,Dairy,1,£1.57,Yes,23,0,6,1.5,£1.57,16
+T00504,05/08/2026,14:25,Wednesday,Tomatoes,Fresh Produce,1,£1.49,No,33,1,5,4.7,£1.49,14
+T00505,12/07/2026,12:00,Sunday,Ice Cream,Frozen,1,£3.95,No,31,0,7,4.6,£3.95,12
+T00506,04/08/2026,14:40,Tuesday,Orange Juice,Drinks,1,£1.89,No,7,0,7,2.4,£1.89,14
+T00507,24/08/2026,18:50,Monday,Ice Cream,Frozen,1,£3.36,Yes,58,0,8,4.7,£3.36,18
+T00508,08/08/2026,13:10,Saturday,Ice Cream,Frozen,1,£3.95,No,5,0,8,4.1,£3.95,13
+T00509,15/08/2026,14:35,Saturday,Bananas,Fresh Produce,2,£0.95,No,52,2,4,2.5,£1.90,14
+T00510,06/08/2026,14:30,Thursday,Frozen Pizza,Frozen,1,£3.49,No,7,0,4,4.1,£3.49,14
+T00511,20/08/2026,13:50,Thursday,Cola 2L,Drinks,2,£1.75,No,12,1,7,5.3,£3.50,13
+T00512,08/07/2026,21:50,Wednesday,Cola 2L,Drinks,1,£1.75,No,22,0,5,3.7,£1.75,21
+T00513,14/07/2026,14:05,Tuesday,Greek Yogurt,Dairy,3,£1.85,No,33,0,6,2.2,£5.55,14
+T00514,09/07/2026,12:25,Thursday,White Bread,Bakery,1,£1.18,Yes,14,0,9,6.1,£1.18,12
+T00515,24/07/2026,19:20,Friday,Frozen Chips,Frozen,1,£2.25,No,11,0,6,5.5,£2.25,19
+T00516,29/08/2026,16:05,Saturday,Apples,Fresh Produce,4,£1.79,No,44,0,7,1.1,£7.16,16
+T00517,10/08/2026,12:55,Monday,Frozen Pizza,Frozen,1,£3.49,No,50,0,7,4.0,£3.49,12
+T00518,11/08/2026,19:35,Tuesday,Croissants,Bakery,1,£1.69,Yes,49,1,6,5.3,£1.69,19
+T00519,20/08/2026,18:05,Thursday,Cheddar Cheese,Dairy,2,£2.79,No,55,0,9,4.1,£5.58,18
+T00520,17/07/2026,12:55,Friday,Frozen Pizza,Frozen,2,£3.49,No,38,0,7,4.9,£6.98,12
+T00521,17/07/2026,18:45,Friday,Chocolate Cookies,Bakery,1,£1.44,Yes,59,2,8,5.1,£1.44,18
+T00522,07/06/2026,07:45,Sunday,Greek Yogurt,Dairy,2,£1.85,No,25,0,4,3.4,£3.70,7
+T00523,01/07/2026,18:35,Wednesday,Milk 2L,Dairy,1,£1.55,No,37,0,9,4.2,£1.55,18
+T00524,28/06/2026,14:30,Sunday,Orange Juice,Drinks,1,£1.89,No,20,0,5,3.8,£1.89,14
+T00525,10/06/2026,19:35,Wednesday,Orange Juice,Drinks,1,£1.89,No,54,0,8,4.3,£1.89,19
+T00526,22/08/2026,16:10,Saturday,Cola 2L,Drinks,1,£1.75,No,48,0,6,1.4,£1.75,16
+T00527,24/08/2026,18:35,Monday,Milk 2L,Dairy,2,£1.55,No,35,0,8,5.1,£3.10,18
+T00528,13/07/2026,11:20,Monday,White Bread,Bakery,4,£1.39,No,23,1,7,1.4,£5.56,11
+T00529,21/06/2026,19:40,Sunday,Orange Juice,Drinks,1,£1.89,No,51,0,9,4.4,£1.89,19
+T00530,24/06/2026,16:25,Wednesday,Chocolate Cookies,Bakery,1,£1.69,No,44,0,6,1.5,£1.69,16
+T00531,19/07/2026,12:45,Sunday,Orange Juice,Drinks,2,£1.89,No,45,0,7,5.6,£3.78,12
+T00532,05/08/2026,09:10,Wednesday,Tomatoes,Fresh Produce,1,£1.27,Yes,14,0,4,2.6,£1.27,9
+T00533,28/08/2026,18:25,Friday,Frozen Pizza,Frozen,3,£3.49,No,13,0,6,4.6,£10.47,18
+T00534,18/06/2026,19:50,Thursday,Cola 2L,Drinks,4,£1.75,No,54,0,6,4.4,£7.00,19
+T00535,10/08/2026,16:45,Monday,Frozen Pizza,Frozen,3,£3.49,No,3,0,5,4.6,£10.47,16
+T00536,16/06/2026,17:00,Tuesday,Frozen Chips,Frozen,3,£2.25,No,54,0,6,4.9,£6.75,17
+T00537,15/06/2026,14:40,Monday,Orange Juice,Drinks,1,£1.89,No,21,0,6,2.7,£1.89,14
+T00538,24/08/2026,12:25,Monday,Orange Juice,Drinks,1,£1.89,No,55,0,8,6.5,£1.89,12
+T00539,07/06/2026,12:10,Sunday,White Bread,Bakery,1,£1.39,No,52,1,8,5.4,£1.39,12
+T00540,06/06/2026,12:35,Saturday,Apples,Fresh Produce,1,£1.79,No,59,0,8,5.4,£1.79,12
+T00541,25/08/2026,17:15,Tuesday,Apples,Fresh Produce,1,£1.79,No,32,0,9,4.9,£1.79,17
+T00542,15/08/2026,14:35,Saturday,Cola 2L,Drinks,1,£1.75,No,44,1,7,1.4,£1.75,14
+T00543,01/06/2026,20:10,Monday,Milk 2L,Dairy,2,£1.55,No,54,0,5,4.9,£3.10,20
+T00544,25/07/2026,12:15,Saturday,Kitchen Roll,Household,1,£2.80,Yes,5,0,7,4.3,£2.80,12
+T00545,13/07/2026,12:15,Monday,Kitchen Roll,Household,1,£3.29,No,50,0,9,3.5,£3.29,12
+T00546,09/06/2026,16:40,Tuesday,Milk 2L,Dairy,1,£1.55,No,29,0,6,1.4,£1.55,16
+T00547,02/06/2026,12:35,Tuesday,Kitchen Roll,Household,2,£3.29,No,40,0,8,4.3,£6.58,12
+T00548,02/08/2026,17:40,Sunday,Chocolate Cookies,Bakery,1,£1.69,No,49,0,9,5.6,£1.69,17
+T00549,11/06/2026,10:50,Thursday,Greek Yogurt,Dairy,3,£1.85,No,36,0,6,3.0,£5.55,10
+T00550,20/08/2026,18:00,Thursday,Chocolate Cookies,Bakery,1,£1.69,No,57,0,7,4.8,£1.69,18
+T00551,10/07/2026,12:55,Friday,Greek Yogurt,Dairy,1,£1.57,Yes,13,0,8,4.8,£1.57,12
+T00552,26/08/2026,09:25,Wednesday,Cola 2L,Drinks,1,£1.49,Yes,41,0,7,1.9,£1.49,9
+T00553,16/06/2026,13:50,Tuesday,Tomatoes,Fresh Produce,2,£1.27,Yes,58,0,6,3.8,£2.54,13
+T00554,27/08/2026,09:25,Thursday,Greek Yogurt,Dairy,1,£1.85,No,53,0,4,4.5,£1.85,9
+T00555,25/06/2026,16:50,Thursday,Frozen Chips,Frozen,1,£2.25,No,46,0,6,2.9,£2.25,16
+T00556,25/08/2026,18:25,Tuesday,Bottled Water 6pk,Drinks,2,£2.49,No,29,0,9,4.2,£4.98,18
+T00557,22/08/2026,12:50,Saturday,White Bread,Bakery,3,£1.39,No,37,0,9,6.1,£4.17,12
+T00558,07/07/2026,14:05,Tuesday,Kitchen Roll,Household,1,£3.29,No,15,0,4,3.8,£3.29,14
+T00559,29/06/2026,14:00,Monday,Milk 2L,Dairy,3,£1.55,No,53,0,4,3.3,£4.65,14
+T00560,06/08/2026,19:50,Thursday,Orange Juice,Drinks,2,£1.89,No,41,0,8,6.9,£3.78,19
+T00561,03/06/2026,10:35,Wednesday,Cheddar Cheese,Dairy,1,£2.37,Yes,36,0,5,4.7,£2.37,10
+T00562,12/08/2026,12:55,Wednesday,Cheddar Cheese,Dairy,2,£2.37,Yes,51,0,6,5.9,£4.74,12
+T00563,20/06/2026,12:00,Saturday,Frozen Chips,Frozen,2,£2.25,No,15,0,7,3.6,£4.50,12
+T00564,10/08/2026,16:05,Monday,Kitchen Roll,Household,1,£2.80,Yes,9,0,7,1.4,£2.80,16
+T00565,16/06/2026,13:20,Tuesday,Frozen Pizza,Frozen,1,£3.49,No,33,0,9,4.4,£3.49,13
+T00566,09/06/2026,13:25,Tuesday,Cola 2L,Drinks,1,£1.75,No,3,0,7,4.3,£1.75,13
+T00567,23/07/2026,19:15,Thursday,Greek Yogurt,Dairy,3,£1.85,No,29,0,9,4.3,£5.55,19
+T00568,26/08/2026,18:55,Wednesday,Croissants,Bakery,1,£1.69,Yes,55,0,9,3.3,£1.69,18
+T00569,19/08/2026,14:45,Wednesday,Cola 2L,Drinks,2,£1.49,Yes,41,0,4,3.7,£2.98,14
+T00570,31/07/2026,18:40,Friday,Ice Cream,Frozen,1,£3.36,Yes,15,0,8,6.9,£3.36,18
+T00571,20/07/2026,18:15,Monday,Washing Liquid,Household,2,£3.99,No,55,0,6,4.3,£7.98,18
+T00572,12/07/2026,16:25,Sunday,Tomatoes,Fresh Produce,1,£1.27,Yes,10,0,4,3.8,£1.27,16
+T00573,04/08/2026,17:45,Tuesday,Frozen Chips,Frozen,1,£2.25,No,26,0,9,6.3,£2.25,17
+T00574,29/08/2026,19:55,Saturday,Apples,Fresh Produce,2,£1.79,No,51,0,7,3.1,£3.58,19
+T00575,03/08/2026,12:40,Monday,Frozen Pizza,Frozen,1,£3.49,No,6,0,8,4.2,£3.49,12
+T00576,04/08/2026,17:10,Tuesday,Croissants,Bakery,4,£1.99,No,16,0,9,4.1,£7.96,17
+T00577,26/06/2026,16:35,Friday,Washing Liquid,Household,1,£3.39,Yes,6,0,6,1.2,£3.39,16
+T00578,30/06/2026,18:00,Tuesday,Chocolate Cookies,Bakery,2,£1.69,No,24,2,8,2.9,£3.38,18
+T00579,30/08/2026,14:40,Sunday,Frozen Chips,Frozen,1,£2.25,No,4,0,6,3.0,£2.25,14
+T00580,30/08/2026,17:50,Sunday,Croissants,Bakery,2,£1.99,No,35,0,8,6.2,£3.98,17
+T00581,18/06/2026,17:40,Thursday,Greek Yogurt,Dairy,2,£1.57,Yes,46,0,8,5.2,£3.14,17
+T00582,09/08/2026,11:10,Sunday,Bananas,Fresh Produce,1,£0.95,No,34,0,7,2.6,£0.95,11
+T00583,03/06/2026,16:00,Wednesday,Washing Liquid,Household,1,£3.99,No,12,0,4,4.7,£3.99,16
+T00584,27/07/2026,12:10,Monday,Ice Cream,Frozen,4,£3.95,No,45,0,8,3.6,£15.80,12
+T00585,09/07/2026,17:40,Thursday,Tomatoes,Fresh Produce,2,£1.49,No,48,0,8,3.4,£2.98,17
+T00586,13/07/2026,18:05,Monday,Frozen Pizza,Frozen,3,£3.49,No,42,0,7,5.4,£10.47,18
+T00587,21/07/2026,16:35,Tuesday,Ice Cream,Frozen,2,£3.95,No,21,0,7,2.6,£7.90,16
+T00588,25/06/2026,14:50,Thursday,Frozen Pizza,Frozen,4,£3.49,No,50,0,5,2.7,£13.96,14
+T00589,23/07/2026,17:35,Thursday,White Bread,Bakery,2,£1.39,No,50,1,9,3.5,£2.78,17
+T00590,08/06/2026,17:25,Monday,Croissants,Bakery,1,£1.69,Yes,39,0,6,5.9,£1.69,17
+T00591,17/08/2026,12:05,Monday,Orange Juice,Drinks,1,£1.89,No,28,0,7,6.6,£1.89,12
+T00592,25/07/2026,18:15,Saturday,Apples,Fresh Produce,3,£1.79,No,41,0,6,5.6,£5.37,18
+T00593,10/06/2026,16:10,Wednesday,Milk 2L,Dairy,1,£1.55,No,54,0,5,3.9,£1.55,16
+T00594,22/08/2026,16:35,Saturday,Milk 2L,Dairy,1,£1.32,Yes,13,0,7,2.6,£1.32,16
+T00595,13/07/2026,16:50,Monday,Orange Juice,Drinks,1,£1.61,Yes,12,0,7,2.4,£1.61,16
+T00596,26/08/2026,10:40,Wednesday,Bananas,Fresh Produce,1,£0.81,Yes,54,0,6,1.7,£0.81,10
+T00597,03/06/2026,16:25,Wednesday,Cola 2L,Drinks,1,£1.49,Yes,53,0,6,1.6,£1.49,16
+T00598,28/07/2026,14:00,Tuesday,Tomatoes,Fresh Produce,2,£1.49,No,40,2,6,2.8,£2.98,14
+T00599,19/06/2026,14:00,Friday,Frozen Chips,Frozen,2,£2.25,No,25,0,5,4.5,£4.50,14
+T00600,30/06/2026,13:35,Tuesday,Frozen Pizza,Frozen,3,£2.97,Yes,10,0,6,4.8,£8.91,13
+T00601,02/08/2026,12:10,Sunday,Milk 2L,Dairy,2,£1.55,No,21,0,9,4.7,£3.10,12
+T00602,13/08/2026,12:10,Thursday,Ice Cream,Frozen,1,£3.95,No,48,0,6,4.6,£3.95,12
+T00603,26/08/2026,10:25,Wednesday,Washing Liquid,Household,2,£3.99,No,36,0,7,2.7,£7.98,10
+T00604,16/07/2026,17:40,Thursday,Bin Bags,Household,1,£2.29,Yes,44,0,9,3.8,£2.29,17
+T00605,25/06/2026,17:55,Thursday,Cola 2L,Drinks,4,£1.75,No,41,0,6,5.0,£7.00,17
+T00606,10/06/2026,14:10,Wednesday,Cola 2L,Drinks,2,£1.75,No,43,0,5,3.1,£3.50,14
+T00607,16/07/2026,09:25,Thursday,Ice Cream,Frozen,1,£3.95,No,33,1,6,1.8,£3.95,9
+T00608,17/07/2026,17:50,Friday,Cola 2L,Drinks,1,£1.75,No,39,1,7,3.9,£1.75,17
+T00609,05/08/2026,19:20,Wednesday,Milk 2L,Dairy,1,£1.32,Yes,10,0,8,4.8,£1.32,19
+T00610,09/08/2026,17:40,Sunday,Greek Yogurt,Dairy,1,£1.85,No,18,0,7,4.6,£1.85,17
+T00611,14/06/2026,12:30,Sunday,Washing Liquid,Household,1,£3.99,No,6,0,6,5.1,£3.99,12
+T00612,30/06/2026,13:10,Tuesday,Orange Juice,Drinks,2,£1.89,No,4,0,6,4.2,£3.78,13
+T00613,15/07/2026,18:25,Wednesday,Frozen Pizza,Frozen,1,£3.49,No,16,0,9,4.4,£3.49,18
+T00614,08/06/2026,09:55,Monday,Bottled Water 6pk,Drinks,1,£2.49,No,40,0,5,3.7,£2.49,9
+T00615,11/08/2026,09:15,Tuesday,Cheddar Cheese,Dairy,2,£2.79,No,25,1,6,2.4,£5.58,9
+T00616,29/08/2026,14:50,Saturday,Kitchen Roll,Household,1,£3.29,No,8,0,5,4.5,£3.29,14
+T00617,04/08/2026,16:10,Tuesday,Tomatoes,Fresh Produce,1,£1.49,No,59,2,6,2.4,£1.49,16
+T00618,30/08/2026,20:35,Sunday,Kitchen Roll,Household,1,£3.29,No,55,0,5,3.3,£3.29,20
+T00619,28/07/2026,20:30,Tuesday,Bananas,Fresh Produce,2,£0.81,Yes,41,0,4,4.0,£1.62,20
+T00620,01/07/2026,15:25,Wednesday,Cola 2L,Drinks,3,£1.75,No,25,0,5,3.1,£5.25,15
+T00621,11/06/2026,14:05,Thursday,Greek Yogurt,Dairy,2,£1.85,No,56,0,4,4.3,£3.70,14
+T00622,02/06/2026,20:05,Tuesday,Frozen Chips,Frozen,1,£2.25,No,16,0,6,2.0,£2.25,20
+T00623,02/06/2026,08:25,Tuesday,Cola 2L,Drinks,1,£1.75,No,24,0,6,2.0,£1.75,8
+T00624,26/07/2026,18:25,Sunday,Bin Bags,Household,2,£2.69,No,4,0,8,5.9,£5.38,18
+T00625,04/07/2026,12:40,Saturday,Bananas,Fresh Produce,1,£0.95,No,4,2,6,4.1,£0.95,12
+T00626,14/08/2026,13:45,Friday,Bananas,Fresh Produce,1,£0.95,No,12,1,8,4.0,£0.95,13
+T00627,24/07/2026,21:50,Friday,Bottled Water 6pk,Drinks,1,£2.49,No,50,0,7,1.5,£2.49,21
+T00628,14/06/2026,16:15,Sunday,Tomatoes,Fresh Produce,1,£1.49,No,58,0,5,3.1,£1.49,16
+T00629,02/08/2026,16:40,Sunday,Bin Bags,Household,2,£2.69,No,12,0,6,1.1,£5.38,16
+T00630,30/08/2026,15:15,Sunday,Croissants,Bakery,1,£1.99,No,18,0,4,3.4,£1.99,15
+T00631,24/07/2026,15:50,Friday,Tomatoes,Fresh Produce,1,£1.49,No,6,0,5,3.5,£1.49,15
+T00632,12/07/2026,18:30,Sunday,Apples,Fresh Produce,2,£1.52,Yes,36,0,8,3.9,£3.04,18
+T00633,30/08/2026,13:45,Sunday,Croissants,Bakery,1,£1.99,No,6,2,9,5.1,£1.99,13
+T00634,04/08/2026,19:05,Tuesday,Kitchen Roll,Household,1,£3.29,No,36,0,8,5.0,£3.29,19
+T00635,27/06/2026,16:15,Saturday,Cola 2L,Drinks,1,£1.75,No,12,0,5,3.9,£1.75,16
+T00636,14/08/2026,12:40,Friday,Croissants,Bakery,2,£1.69,Yes,14,0,7,3.6,£3.38,12
+T00637,07/06/2026,18:30,Sunday,Cheddar Cheese,Dairy,3,£2.37,Yes,41,1,6,3.5,£7.11,18
+T00638,23/08/2026,13:05,Sunday,Apples,Fresh Produce,2,£1.79,No,50,1,7,5.6,£3.58,13
+T00639,16/07/2026,19:25,Thursday,Bottled Water 6pk,Drinks,1,£2.49,No,33,0,9,5.2,£2.49,19
+T00640,31/07/2026,15:55,Friday,Frozen Pizza,Frozen,2,£3.49,No,53,0,5,3.3,£6.98,15
+T00641,18/06/2026,18:25,Thursday,Frozen Chips,Frozen,1,£2.25,No,20,0,9,3.4,£2.25,18
+T00642,23/06/2026,16:30,Tuesday,Orange Juice,Drinks,1,£1.61,Yes,30,0,4,4.6,£1.61,16
+T00643,26/06/2026,14:20,Friday,Apples,Fresh Produce,2,£1.52,Yes,55,0,5,2.9,£3.04,14
+T00644,08/08/2026,20:20,Saturday,Bananas,Fresh Produce,1,£0.95,No,40,0,5,3.7,£0.95,20
+T00645,25/06/2026,13:05,Thursday,Orange Juice,Drinks,1,£1.89,No,22,0,6,4.4,£1.89,13
+T00646,26/08/2026,16:00,Wednesday,White Bread,Bakery,2,£1.39,No,19,0,4,4.2,£2.78,16
+T00647,09/08/2026,18:35,Sunday,Ice Cream,Frozen,1,£3.95,No,55,0,7,3.8,£3.95,18
+T00648,21/08/2026,19:50,Friday,Greek Yogurt,Dairy,1,£1.85,No,12,0,6,4.0,£1.85,19
+T00649,16/06/2026,17:50,Tuesday,Orange Juice,Drinks,2,£1.61,Yes,60,0,6,4.5,£3.22,17
+T00650,24/06/2026,11:20,Wednesday,Ice Cream,Frozen,2,£3.95,No,16,0,4,3.9,£7.90,11
+T00651,14/06/2026,21:40,Sunday,Tomatoes,Fresh Produce,1,£1.49,No,36,0,7,1.3,£1.49,21
+T00652,20/08/2026,09:10,Thursday,Washing Liquid,Household,2,£3.99,No,22,0,5,3.7,£7.98,9
+T00653,08/06/2026,12:30,Monday,Bananas,Fresh Produce,1,£0.81,Yes,37,0,9,5.0,£0.81,12
+T00654,29/08/2026,12:55,Saturday,Orange Juice,Drinks,1,£1.89,No,33,0,9,4.7,£1.89,12
+T00655,13/06/2026,19:15,Saturday,Ice Cream,Frozen,1,£3.95,No,7,0,6,4.4,£3.95,19
+T00656,14/07/2026,07:10,Tuesday,Cheddar Cheese,Dairy,2,£2.79,No,47,0,6,1.8,£5.58,7
+T00657,10/06/2026,10:35,Wednesday,Orange Juice,Drinks,1,£1.89,No,37,0,7,1.2,£1.89,10
+T00658,16/07/2026,18:00,Thursday,Bottled Water 6pk,Drinks,2,£2.49,No,5,0,6,5.2,£4.98,18
+T00659,04/08/2026,16:30,Tuesday,Frozen Pizza,Frozen,1,£3.49,No,38,0,4,3.8,£3.49,16
+T00660,09/07/2026,13:05,Thursday,Greek Yogurt,Dairy,1,£1.85,No,31,0,8,4.3,£1.85,13
+T00661,25/06/2026,12:15,Thursday,Milk 2L,Dairy,2,£1.32,Yes,42,0,8,3.7,£2.64,12
+T00662,06/08/2026,17:25,Thursday,Milk 2L,Dairy,1,£1.32,Yes,6,1,9,5.2,£1.32,17
+T00663,02/07/2026,09:20,Thursday,Washing Liquid,Household,2,£3.99,No,40,0,7,1.7,£7.98,9
+T00664,01/07/2026,18:15,Wednesday,Frozen Chips,Frozen,2,£2.25,No,28,0,6,4.1,£4.50,18
+T00665,22/07/2026,18:05,Wednesday,Washing Liquid,Household,1,£3.99,No,27,0,6,4.7,£3.99,18
+T00666,04/07/2026,10:50,Saturday,Frozen Pizza,Frozen,1,£2.97,Yes,38,0,7,2.4,£2.97,10
+T00667,10/08/2026,19:50,Monday,Greek Yogurt,Dairy,2,£1.85,No,44,0,6,5.5,£3.70,19
+T00668,03/08/2026,13:40,Monday,Frozen Pizza,Frozen,2,£2.97,Yes,59,0,9,3.8,£5.94,13
+T00669,05/08/2026,17:10,Wednesday,Bananas,Fresh Produce,2,£0.95,No,34,3,7,3.0,£1.90,17
+T00670,15/06/2026,14:20,Monday,Tomatoes,Fresh Produce,2,£1.49,No,7,0,7,1.2,£2.98,14
+T00671,23/07/2026,13:40,Thursday,Washing Liquid,Household,1,£3.39,Yes,42,0,7,5.8,£3.39,13
+T00672,27/06/2026,18:15,Saturday,Apples,Fresh Produce,1,£1.79,No,22,0,6,4.7,£1.79,18
+T00673,28/08/2026,18:50,Friday,Frozen Chips,Frozen,1,£2.25,No,39,0,9,4.6,£2.25,18
+T00674,02/08/2026,13:45,Sunday,Washing Liquid,Household,2,£3.99,No,45,0,7,6.6,£7.98,13
+T00675,30/06/2026,13:10,Tuesday,Kitchen Roll,Household,1,£3.29,No,22,0,7,3.9,£3.29,13
+T00676,06/08/2026,12:30,Thursday,Cola 2L,Drinks,3,£1.75,No,13,0,8,5.6,£5.25,12
+T00677,04/06/2026,14:00,Thursday,Bin Bags,Household,4,£2.29,Yes,40,0,7,1.1,£9.16,14
+T00678,25/07/2026,13:50,Saturday,Orange Juice,Drinks,2,£1.89,No,55,0,7,5.7,£3.78,13
+T00679,09/06/2026,14:20,Tuesday,Bin Bags,Household,1,£2.69,No,10,0,7,1.0,£2.69,14
+T00680,23/06/2026,19:20,Tuesday,Apples,Fresh Produce,1,£1.52,Yes,32,1,6,4.7,£1.52,19
+T00681,27/08/2026,09:45,Thursday,White Bread,Bakery,1,£1.39,No,6,0,7,2.2,£1.39,9
+T00682,18/07/2026,13:15,Saturday,Bin Bags,Household,3,£2.69,No,43,1,8,4.7,£8.07,13
+T00683,14/06/2026,13:05,Sunday,Apples,Fresh Produce,2,£1.79,No,15,0,8,6.4,£3.58,13
+T00684,29/08/2026,14:45,Saturday,Bottled Water 6pk,Drinks,1,£2.49,No,10,0,4,4.1,£2.49,14
+T00685,18/06/2026,09:40,Thursday,Apples,Fresh Produce,2,£1.79,No,54,0,4,3.1,£3.58,9
+T00686,29/08/2026,08:45,Saturday,Croissants,Bakery,1,£1.99,No,21,1,5,4.5,£1.99,8
+T00687,27/08/2026,18:35,Thursday,Cola 2L,Drinks,1,£1.75,No,50,0,8,4.8,£1.75,18
+T00688,07/07/2026,10:25,Tuesday,Bananas,Fresh Produce,1,£0.95,No,26,2,6,1.1,£0.95,10
+T00689,18/06/2026,13:10,Thursday,White Bread,Bakery,1,£1.39,No,30,0,8,4.8,£1.39,13
+T00690,25/08/2026,13:00,Tuesday,Cheddar Cheese,Dairy,2,£2.79,No,23,0,9,5.6,£5.58,13
+T00691,08/08/2026,18:20,Saturday,Ice Cream,Frozen,1,£3.95,No,3,0,9,4.1,£3.95,18
+T00692,03/08/2026,19:00,Monday,Bananas,Fresh Produce,1,£0.95,No,43,0,8,6.6,£0.95,19
+T00693,30/07/2026,19:05,Thursday,Washing Liquid,Household,1,£3.39,Yes,56,0,7,5.4,£3.39,19
+T00694,08/06/2026,18:25,Monday,Washing Liquid,Household,1,£3.99,No,59,0,8,3.8,£3.99,18
+T00695,09/07/2026,21:10,Thursday,Orange Juice,Drinks,1,£1.89,No,10,0,7,1.9,£1.89,21
+T00696,29/08/2026,14:30,Saturday,Frozen Chips,Frozen,1,£2.25,No,17,0,4,3.7,£2.25,14
+T00697,19/06/2026,11:55,Friday,Frozen Chips,Frozen,2,£2.25,No,45,0,7,2.6,£4.50,11
+T00698,26/07/2026,19:05,Sunday,Frozen Chips,Frozen,1,£2.25,No,42,0,9,5.3,£2.25,19
+T00699,23/06/2026,18:50,Tuesday,Cheddar Cheese,Dairy,2,£2.79,No,22,0,8,4.8,£5.58,18
+T00700,23/07/2026,09:25,Thursday,Apples,Fresh Produce,3,£1.79,No,51,3,7,2.8,£5.37,9
+T00701,06/06/2026,19:50,Saturday,White Bread,Bakery,3,£1.39,No,34,0,8,3.6,£4.17,19
+T00702,17/07/2026,17:05,Friday,Washing Liquid,Household,1,£3.99,No,57,0,9,6.7,£3.99,17
+T00703,12/08/2026,19:05,Wednesday,Bin Bags,Household,1,£2.69,No,9,0,9,6.1,£2.69,19
+T00704,27/06/2026,13:15,Saturday,Milk 2L,Dairy,2,£1.32,Yes,17,0,7,4.4,£2.64,13
+T00705,10/07/2026,14:20,Friday,Orange Juice,Drinks,2,£1.61,Yes,19,0,4,5.0,£3.22,14
+T00706,28/06/2026,13:15,Sunday,Washing Liquid,Household,3,£3.99,No,25,0,6,4.1,£11.97,13
+T00707,11/08/2026,20:25,Tuesday,Greek Yogurt,Dairy,3,£1.85,No,53,0,5,3.7,£5.55,20
+T00708,10/07/2026,18:15,Friday,Apples,Fresh Produce,3,£1.52,Yes,17,0,9,6.0,£4.56,18
+T00709,07/06/2026,14:55,Sunday,Cola 2L,Drinks,2,£1.75,No,17,0,7,2.8,£3.50,14
+T00710,03/06/2026,16:35,Wednesday,Bin Bags,Household,1,£2.69,No,23,0,4,5.0,£2.69,16
+T00711,13/06/2026,16:00,Saturday,Greek Yogurt,Dairy,2,£1.85,No,21,0,4,4.5,£3.70,16
+T00712,02/07/2026,17:15,Thursday,Chocolate Cookies,Bakery,2,£1.69,No,46,1,8,5.9,£3.38,17
+T00713,25/07/2026,16:00,Saturday,Bin Bags,Household,1,£2.69,No,51,0,7,2.2,£2.69,16
+T00714,01/07/2026,12:30,Wednesday,Apples,Fresh Produce,1,£1.52,Yes,55,0,9,4.3,£1.52,12
+T00715,24/08/2026,14:40,Monday,White Bread,Bakery,1,£1.39,No,51,1,7,2.8,£1.39,14
+T00716,12/06/2026,11:20,Friday,Bananas,Fresh Produce,1,£0.81,Yes,46,0,5,3.7,£0.81,11
+T00717,18/07/2026,16:20,Saturday,Bananas,Fresh Produce,1,£0.95,No,17,0,4,5.0,£0.95,16
+T00718,16/07/2026,12:35,Thursday,Croissants,Bakery,1,£1.99,No,45,0,8,6.3,£1.99,12
+T00719,25/06/2026,13:25,Thursday,Croissants,Bakery,1,£1.99,No,21,0,8,5.2,£1.99,13
+T00720,20/08/2026,19:45,Thursday,Greek Yogurt,Dairy,2,£1.57,Yes,48,0,6,6.1,£3.14,19
+T00721,28/06/2026,13:20,Sunday,Bottled Water 6pk,Drinks,1,£2.49,No,10,0,7,5.4,£2.49,13
+T00722,28/07/2026,13:25,Tuesday,Croissants,Bakery,2,£1.99,No,59,2,9,5.9,£3.98,13
+T00723,15/06/2026,14:55,Monday,Washing Liquid,Household,3,£3.39,Yes,12,0,4,3.4,£10.17,14
+T00724,08/08/2026,19:20,Saturday,Cheddar Cheese,Dairy,1,£2.79,No,34,0,9,6.3,£2.79,19
+T00725,10/06/2026,17:00,Wednesday,Chocolate Cookies,Bakery,1,£1.69,No,43,1,7,3.3,£1.69,17
+T00726,25/06/2026,16:00,Thursday,Orange Juice,Drinks,2,£1.89,No,27,0,5,4.4,£3.78,16
+T00727,26/08/2026,13:10,Wednesday,Chocolate Cookies,Bakery,1,£1.44,Yes,6,0,7,4.1,£1.44,13
+T00728,09/08/2026,12:45,Sunday,Greek Yogurt,Dairy,1,£1.85,No,40,0,7,5.1,£1.85,12
+T00729,28/07/2026,16:55,Tuesday,Washing Liquid,Household,1,£3.39,Yes,9,0,7,1.6,£3.39,16
+T00730,11/06/2026,12:00,Thursday,Cheddar Cheese,Dairy,1,£2.79,No,22,0,9,4.0,£2.79,12
+T00731,10/08/2026,15:15,Monday,Bin Bags,Household,2,£2.69,No,39,0,7,1.8,£5.38,15
+T00732,28/07/2026,17:30,Tuesday,Greek Yogurt,Dairy,2,£1.85,No,14,0,7,4.3,£3.70,17
+T00733,21/07/2026,16:50,Tuesday,Milk 2L,Dairy,2,£1.55,No,48,0,7,2.5,£3.10,16
+T00734,26/06/2026,08:45,Friday,Bananas,Fresh Produce,3,£0.95,No,48,2,7,2.4,£2.85,8
+T00735,03/08/2026,18:25,Monday,Tomatoes,Fresh Produce,2,£1.27,Yes,55,0,7,6.6,£2.54,18
+T00736,28/08/2026,13:55,Friday,Frozen Pizza,Frozen,2,£2.97,Yes,22,0,9,3.8,£5.94,13
+T00737,19/06/2026,13:50,Friday,Frozen Chips,Frozen,1,£2.25,No,46,0,6,4.7,£2.25,13
+T00738,02/08/2026,08:40,Sunday,Bananas,Fresh Produce,2,£0.95,No,45,0,7,2.8,£1.90,8
+T00739,28/07/2026,19:30,Tuesday,Apples,Fresh Produce,1,£1.52,Yes,26,0,7,4.5,£1.52,19
+T00740,28/07/2026,14:30,Tuesday,Cola 2L,Drinks,3,£1.49,Yes,14,0,4,3.1,£4.47,14
+T00741,03/08/2026,13:35,Monday,Bananas,Fresh Produce,1,£0.95,No,3,0,9,5.0,£0.95,13
+T00742,15/06/2026,16:50,Monday,Bottled Water 6pk,Drinks,1,£2.49,No,41,1,5,2.6,£2.49,16
+T00743,22/08/2026,11:35,Saturday,Washing Liquid,Household,2,£3.39,Yes,20,0,5,3.5,£6.78,11
+T00744,11/08/2026,17:35,Tuesday,Bottled Water 6pk,Drinks,1,£2.49,No,41,0,8,5.4,£2.49,17
+T00745,02/08/2026,12:35,Sunday,Frozen Pizza,Frozen,1,£3.49,No,40,0,8,4.8,£3.49,12
+T00746,09/07/2026,14:45,Thursday,Orange Juice,Drinks,1,£1.61,Yes,44,0,6,1.5,£1.61,14
+T00747,03/06/2026,14:35,Wednesday,Bananas,Fresh Produce,1,£0.81,Yes,52,1,6,2.8,£0.81,14
+T00748,16/07/2026,17:50,Thursday,Orange Juice,Drinks,1,£1.89,No,9,0,6,6.1,£1.89,17
+T00749,04/06/2026,18:25,Thursday,Cola 2L,Drinks,1,£1.75,No,42,0,8,5.6,£1.75,18
+T00750,19/07/2026,14:45,Sunday,Frozen Pizza,Frozen,1,£3.49,No,23,0,4,4.6,£3.49,14
+T00751,22/06/2026,13:20,Monday,Frozen Pizza,Frozen,2,£3.49,No,3,0,7,5.3,£6.98,13
+T00752,23/07/2026,19:10,Thursday,Orange Juice,Drinks,1,£1.61,Yes,60,0,9,3.8,£1.61,19
+T00753,01/07/2026,16:00,Wednesday,Apples,Fresh Produce,1,£1.52,Yes,48,0,7,1.7,£1.52,16
+T00754,03/06/2026,12:40,Wednesday,Frozen Pizza,Frozen,1,£2.97,Yes,18,0,7,4.8,£2.97,12
+T00755,21/07/2026,12:15,Tuesday,Croissants,Bakery,4,£1.99,No,34,0,6,6.1,£7.96,12
+T00756,02/07/2026,17:10,Thursday,Bin Bags,Household,4,£2.69,No,47,1,6,5.4,£10.76,17
+T00757,02/08/2026,21:35,Sunday,Orange Juice,Drinks,1,£1.61,Yes,26,1,4,2.9,£1.61,21
+T00758,13/07/2026,17:15,Monday,Kitchen Roll,Household,4,£2.80,Yes,46,0,8,6.2,£11.20,17
+T00759,07/08/2026,14:15,Friday,Bottled Water 6pk,Drinks,1,£2.49,No,46,0,4,4.0,£2.49,14
+T00760,24/06/2026,12:40,Wednesday,Apples,Fresh Produce,1,£1.79,No,49,0,7,5.4,£1.79,12
+T00761,01/07/2026,20:00,Wednesday,Chocolate Cookies,Bakery,2,£1.69,No,34,0,5,4.6,£3.38,20
+T00762,29/08/2026,18:10,Saturday,Milk 2L,Dairy,1,£1.32,Yes,39,0,9,4.1,£1.32,18
+T00763,17/07/2026,07:00,Friday,Bin Bags,Household,1,£2.69,No,16,0,6,1.4,£2.69,7
+T00764,15/08/2026,21:50,Saturday,Chocolate Cookies,Bakery,1,£1.44,Yes,17,0,4,3.4,£1.44,21
+T00765,12/06/2026,11:50,Friday,Kitchen Roll,Household,3,£3.29,No,55,0,7,1.1,£9.87,11
+T00766,17/08/2026,12:05,Monday,Croissants,Bakery,1,£1.99,No,11,0,6,4.1,£1.99,12
+T00767,25/07/2026,17:05,Saturday,Chocolate Cookies,Bakery,1,£1.69,No,38,2,6,4.5,£1.69,17
+T00768,28/07/2026,19:40,Tuesday,Tomatoes,Fresh Produce,1,£1.49,No,8,0,7,5.7,£1.49,19
+T00769,09/06/2026,10:40,Tuesday,Milk 2L,Dairy,3,£1.55,No,17,0,4,3.4,£4.65,10
+T00770,15/08/2026,12:15,Saturday,Cheddar Cheese,Dairy,1,£2.37,Yes,59,0,7,6.0,£2.37,12
+T00771,01/07/2026,19:40,Wednesday,Washing Liquid,Household,1,£3.39,Yes,12,0,8,3.1,£3.39,19
+T00772,06/08/2026,14:30,Thursday,Chocolate Cookies,Bakery,1,£1.44,Yes,46,0,5,3.2,£1.44,14
+T00773,21/07/2026,13:20,Tuesday,Orange Juice,Drinks,1,£1.89,No,38,0,9,5.8,£1.89,13
+T00774,27/06/2026,16:40,Saturday,Orange Juice,Drinks,1,£1.89,No,37,0,7,1.8,£1.89,16
+T00775,28/08/2026,13:25,Friday,Frozen Chips,Frozen,1,£2.25,No,26,0,6,6.3,£2.25,13
+T00776,07/08/2026,09:05,Friday,Bin Bags,Household,3,£2.69,No,53,1,5,2.5,£8.07,9
+T00777,03/06/2026,16:10,Wednesday,Frozen Pizza,Frozen,1,£3.49,No,32,0,4,3.8,£3.49,16
+T00778,30/06/2026,19:10,Tuesday,Greek Yogurt,Dairy,3,£1.85,No,18,0,8,4.3,£5.55,19
+T00779,01/06/2026,16:30,Monday,Bottled Water 6pk,Drinks,2,£2.49,No,35,0,4,3.6,£4.98,16
+T00780,18/06/2026,14:00,Thursday,Milk 2L,Dairy,1,£1.55,No,56,1,6,2.8,£1.55,14
+T00781,04/07/2026,13:30,Saturday,Frozen Pizza,Frozen,2,£2.97,Yes,39,0,9,3.9,£5.94,13
+T00782,01/06/2026,08:40,Monday,Croissants,Bakery,4,£1.69,Yes,33,0,6,2.3,£6.76,8
+T00783,14/08/2026,19:25,Friday,Cola 2L,Drinks,3,£1.75,No,32,0,6,5.1,£5.25,19
+T00784,24/07/2026,09:20,Friday,Tomatoes,Fresh Produce,1,£1.49,No,60,0,5,4.0,£1.49,9
+T00785,27/06/2026,12:45,Saturday,Greek Yogurt,Dairy,1,£1.85,No,12,0,9,4.9,£1.85,12
+T00786,30/08/2026,13:15,Sunday,Orange Juice,Drinks,1,£1.89,No,8,0,7,5.4,£1.89,13
+T00787,25/06/2026,13:20,Thursday,Tomatoes,Fresh Produce,3,£1.27,Yes,6,0,6,4.1,£3.81,13
+T00788,16/06/2026,17:00,Tuesday,Croissants,Bakery,1,£1.99,No,25,0,7,6.1,£1.99,17
+T00789,16/07/2026,17:35,Thursday,Greek Yogurt,Dairy,1,£1.85,No,39,0,9,5.6,£1.85,17
+T00790,16/07/2026,19:45,Thursday,Milk 2L,Dairy,2,£1.55,No,60,0,9,5.4,£3.10,19
+T00791,09/07/2026,15:10,Thursday,Bottled Water 6pk,Drinks,1,£2.12,Yes,46,0,7,1.1,£2.12,15
+T00792,06/07/2026,19:00,Monday,Ice Cream,Frozen,2,£3.95,No,44,0,9,6.5,£7.90,19
+T00793,27/07/2026,16:00,Monday,Cheddar Cheese,Dairy,1,£2.79,No,24,0,4,3.4,£2.79,16
+T00794,20/07/2026,15:25,Monday,Tomatoes,Fresh Produce,3,£1.27,Yes,41,1,4,4.3,£3.81,15
+T00795,01/06/2026,18:20,Monday,Kitchen Roll,Household,1,£3.29,No,43,1,8,5.8,£3.29,18
+T00796,30/07/2026,16:35,Thursday,Cheddar Cheese,Dairy,1,£2.79,No,57,0,6,2.4,£2.79,16
+T00797,07/06/2026,14:20,Sunday,Cheddar Cheese,Dairy,4,£2.79,No,42,0,4,4.7,£11.16,14
+T00798,28/07/2026,16:15,Tuesday,Washing Liquid,Household,3,£3.99,No,34,0,7,1.4,£11.97,16
+T00799,24/08/2026,13:25,Monday,Bin Bags,Household,1,£2.69,No,50,0,7,5.0,£2.69,13
+T00800,28/08/2026,12:35,Friday,Bananas,Fresh Produce,1,£0.95,No,56,1,9,4.5,£0.95,12
+T00801,26/07/2026,16:25,Sunday,Bin Bags,Household,1,£2.69,No,5,0,7,2.6,£2.69,16
+T00802,24/06/2026,20:20,Wednesday,Kitchen Roll,Household,2,£2.80,Yes,7,0,7,2.9,£5.60,20
+T00803,29/06/2026,17:20,Monday,Cola 2L,Drinks,3,£1.75,No,22,0,6,6.0,£5.25,17
+T00804,22/06/2026,12:35,Monday,Milk 2L,Dairy,2,£1.55,No,49,0,8,4.4,£3.10,12
+T00805,19/08/2026,18:45,Wednesday,Washing Liquid,Household,1,£3.99,No,39,0,8,4.7,£3.99,18
+T00806,06/08/2026,16:40,Thursday,White Bread,Bakery,1,£1.18,Yes,47,0,4,4.5,£1.18,16
+T00807,05/07/2026,18:15,Sunday,Washing Liquid,Household,3,£3.99,No,10,0,8,3.0,£11.97,18
+T00808,11/06/2026,20:20,Thursday,Washing Liquid,Household,1,£3.99,No,18,0,4,3.8,£3.99,20
+T00809,05/06/2026,09:10,Friday,Cheddar Cheese,Dairy,1,£2.79,No,50,0,4,3.0,£2.79,9
+T00810,08/08/2026,19:40,Saturday,Greek Yogurt,Dairy,2,£1.85,No,29,0,6,4.3,£3.70,19
+T00811,12/07/2026,19:20,Sunday,Croissants,Bakery,1,£1.99,No,23,1,8,4.8,£1.99,19
+T00812,16/06/2026,17:30,Tuesday,Chocolate Cookies,Bakery,2,£1.69,No,46,0,6,4.9,£3.38,17
+T00813,29/07/2026,16:50,Wednesday,Washing Liquid,Household,2,£3.99,No,15,0,7,1.5,£7.98,16
+T00814,10/07/2026,12:15,Friday,Bin Bags,Household,3,£2.69,No,4,0,9,6.0,£8.07,12
+T00815,16/07/2026,12:20,Thursday,Croissants,Bakery,1,£1.99,No,41,0,9,4.5,£1.99,12
+T00816,16/07/2026,21:10,Thursday,Kitchen Roll,Household,3,£3.29,No,55,0,6,1.3,£9.87,21
+T00817,21/07/2026,16:40,Tuesday,Cheddar Cheese,Dairy,1,£2.37,Yes,3,0,5,3.9,£2.37,16
+T00818,21/07/2026,13:50,Tuesday,Apples,Fresh Produce,3,£1.79,No,28,2,8,5.0,£5.37,13
+T00819,28/06/2026,07:30,Sunday,Tomatoes,Fresh Produce,3,£1.27,Yes,54,0,6,2.5,£3.81,7
+T00820,28/07/2026,12:15,Tuesday,Frozen Chips,Frozen,1,£2.25,No,5,0,8,4.2,£2.25,12
+T00821,25/08/2026,07:10,Tuesday,Bananas,Fresh Produce,3,£0.81,Yes,41,0,4,3.7,£2.43,7
+T00822,27/08/2026,18:45,Thursday,Frozen Chips,Frozen,1,£2.25,No,10,0,8,5.1,£2.25,18
+T00823,08/08/2026,13:15,Saturday,Ice Cream,Frozen,1,£3.36,Yes,39,0,6,3.9,£3.36,13
+T00824,28/07/2026,12:40,Tuesday,Ice Cream,Frozen,1,£3.95,No,30,0,6,5.6,£3.95,12
+T00825,21/08/2026,17:00,Friday,Cola 2L,Drinks,1,£1.75,No,30,0,8,4.4,£1.75,17
+T00826,24/06/2026,18:15,Wednesday,Orange Juice,Drinks,1,£1.89,No,18,0,9,3.6,£1.89,18
+T00827,27/06/2026,10:35,Saturday,Washing Liquid,Household,1,£3.99,No,16,0,6,3.0,£3.99,10
+T00828,24/07/2026,17:05,Friday,White Bread,Bakery,2,£1.39,No,50,0,9,3.4,£2.78,17
+T00829,14/06/2026,16:15,Sunday,Bananas,Fresh Produce,2,£0.95,No,58,3,5,3.5,£1.90,16
+T00830,17/08/2026,17:10,Monday,Frozen Chips,Frozen,1,£2.25,No,21,0,9,4.4,£2.25,17
+T00831,11/06/2026,16:55,Thursday,Kitchen Roll,Household,2,£2.80,Yes,55,1,4,2.5,£5.60,16
+T00832,21/06/2026,20:20,Sunday,Cheddar Cheese,Dairy,1,£2.79,No,32,0,7,2.2,£2.79,20
+T00833,12/07/2026,20:30,Sunday,Orange Juice,Drinks,1,£1.89,No,27,0,5,3.5,£1.89,20
+T00834,04/06/2026,18:15,Thursday,Chocolate Cookies,Bakery,1,£1.69,No,43,0,8,4.5,£1.69,18
+T00835,10/08/2026,13:15,Monday,Frozen Pizza,Frozen,1,£2.97,Yes,14,0,8,4.5,£2.97,13
+T00836,15/06/2026,17:40,Monday,Croissants,Bakery,1,£1.99,No,19,0,6,3.4,£1.99,17
+T00837,20/07/2026,13:55,Monday,White Bread,Bakery,3,£1.39,No,32,0,9,5.0,£4.17,13
+T00838,04/06/2026,16:50,Thursday,Washing Liquid,Household,3,£3.99,No,4,0,5,3.4,£11.97,16
+T00839,10/07/2026,14:20,Friday,Kitchen Roll,Household,3,£3.29,No,37,0,5,3.0,£9.87,14
+T00840,18/08/2026,15:10,Tuesday,Cola 2L,Drinks,1,£1.75,No,17,0,5,4.2,£1.75,15
+T00841,10/07/2026,14:35,Friday,Apples,Fresh Produce,1,£1.52,Yes,29,0,4,3.6,£1.52,14
+T00842,27/06/2026,12:40,Saturday,White Bread,Bakery,2,£1.39,No,39,1,7,4.2,£2.78,12
+T00843,22/06/2026,17:50,Monday,Tomatoes,Fresh Produce,2,£1.49,No,10,0,8,4.7,£2.98,17
+T00844,30/07/2026,17:50,Thursday,Apples,Fresh Produce,3,£1.79,No,19,0,8,6.2,£5.37,17
+T00845,19/06/2026,16:50,Friday,Greek Yogurt,Dairy,1,£1.85,No,52,0,7,1.2,£1.85,16
+T00846,09/06/2026,14:40,Tuesday,Cola 2L,Drinks,1,£1.49,Yes,44,0,7,1.0,£1.49,14
+T00847,23/07/2026,19:00,Thursday,Cola 2L,Drinks,2,£1.49,Yes,53,0,8,4.3,£2.98,19
+T00848,10/06/2026,15:30,Wednesday,Frozen Pizza,Frozen,2,£2.97,Yes,29,0,5,3.6,£5.94,15
+T00849,22/07/2026,09:30,Wednesday,Apples,Fresh Produce,1,£1.79,No,17,0,4,4.9,£1.79,9
+T00850,05/07/2026,18:35,Sunday,Milk 2L,Dairy,2,£1.55,No,18,0,9,5.4,£3.10,18
+T00851,01/08/2026,13:10,Saturday,Bin Bags,Household,2,£2.29,Yes,24,0,6,4.5,£4.58,13
+T00852,17/07/2026,08:40,Friday,Washing Liquid,Household,1,£3.99,No,24,1,6,1.8,£3.99,8
+T00853,03/07/2026,19:05,Friday,Kitchen Roll,Household,2,£3.29,No,53,0,6,6.6,£6.58,19
+T00854,13/06/2026,19:45,Saturday,Apples,Fresh Produce,1,£1.79,No,52,0,6,3.8,£1.79,19
+T00855,13/07/2026,08:55,Monday,Ice Cream,Frozen,2,£3.36,Yes,29,0,7,2.6,£6.72,8
+T00856,04/08/2026,13:05,Tuesday,Bin Bags,Household,1,£2.69,No,14,0,7,5.7,£2.69,13
+T00857,18/07/2026,13:00,Saturday,Orange Juice,Drinks,4,£1.89,No,57,0,6,4.3,£7.56,13
+T00858,28/08/2026,18:10,Friday,Bottled Water 6pk,Drinks,1,£2.49,No,23,0,6,5.0,£2.49,18
+T00859,27/08/2026,16:35,Thursday,White Bread,Bakery,1,£1.39,No,11,0,7,3.0,£1.39,16
+T00860,15/06/2026,13:30,Monday,Frozen Pizza,Frozen,3,£3.49,No,56,0,8,3.1,£10.47,13
+T00861,15/06/2026,09:00,Monday,Cola 2L,Drinks,1,£1.75,No,55,0,6,2.2,£1.75,9
+T00862,12/06/2026,12:25,Friday,Chocolate Cookies,Bakery,2,£1.69,No,16,0,7,3.8,£3.38,12
+T00863,15/06/2026,13:10,Monday,Frozen Pizza,Frozen,1,£3.49,No,27,0,7,4.6,£3.49,13
+T00864,19/08/2026,14:05,Wednesday,Cola 2L,Drinks,3,£1.49,Yes,19,0,4,4.0,£4.47,14
+T00865,05/08/2026,14:10,Wednesday,Orange Juice,Drinks,1,£1.89,No,53,0,6,1.0,£1.89,14
+T00866,26/08/2026,14:35,Wednesday,Milk 2L,Dairy,2,£1.55,No,21,0,7,2.3,£3.10,14
+T00867,06/06/2026,12:40,Saturday,Bottled Water 6pk,Drinks,3,£2.49,No,28,0,9,4.5,£7.47,12
+T00868,30/08/2026,12:00,Sunday,Washing Liquid,Household,1,£3.99,No,55,0,8,3.6,£3.99,12
+T00869,28/08/2026,16:20,Friday,Washing Liquid,Household,3,£3.39,Yes,16,0,6,1.6,£10.17,16
+T00870,02/08/2026,14:25,Sunday,Frozen Pizza,Frozen,1,£3.49,No,34,0,5,4.3,£3.49,14
+T00871,01/08/2026,19:20,Saturday,Frozen Pizza,Frozen,1,£3.49,No,16,0,6,3.4,£3.49,19
+T00872,17/06/2026,18:35,Wednesday,Frozen Chips,Frozen,2,£2.25,No,45,0,7,5.9,£4.50,18
+T00873,10/08/2026,19:45,Monday,White Bread,Bakery,1,£1.39,No,16,0,8,3.4,£1.39,19
+T00874,16/08/2026,16:00,Sunday,Cola 2L,Drinks,2,£1.75,No,36,0,6,1.7,£3.50,16
+T00875,13/07/2026,18:20,Monday,Milk 2L,Dairy,3,£1.32,Yes,27,0,6,5.4,£3.96,18
+T00876,14/06/2026,18:00,Sunday,Kitchen Roll,Household,2,£3.29,No,26,0,6,5.3,£6.58,18
+T00877,05/08/2026,07:20,Wednesday,Frozen Chips,Frozen,1,£2.25,No,57,0,4,4.6,£2.25,7
+T00878,03/06/2026,17:50,Wednesday,Ice Cream,Frozen,4,£3.36,Yes,16,0,6,3.0,£13.44,17
+T00879,30/08/2026,17:10,Sunday,Milk 2L,Dairy,2,£1.55,No,47,0,9,6.0,£3.10,17
+T00880,12/08/2026,17:45,Wednesday,Chocolate Cookies,Bakery,2,£1.69,No,17,1,9,4.6,£3.38,17
+T00881,21/07/2026,16:10,Tuesday,Ice Cream,Frozen,2,£3.95,No,24,1,5,4.6,£7.90,16
+T00882,06/07/2026,14:45,Monday,Washing Liquid,Household,1,£3.99,No,18,0,6,1.5,£3.99,14
+T00883,12/06/2026,18:40,Friday,Orange Juice,Drinks,2,£1.61,Yes,10,0,6,6.1,£3.22,18
+T00884,03/08/2026,09:50,Monday,Bananas,Fresh Produce,1,£0.95,No,47,2,4,3.4,£0.95,9
+T00885,02/07/2026,13:10,Thursday,Apples,Fresh Produce,1,£1.79,No,16,3,8,5.7,£1.79,13
+T00886,12/07/2026,18:20,Sunday,White Bread,Bakery,1,£1.39,No,57,0,7,3.7,£1.39,18
+T00887,24/08/2026,14:10,Monday,Bananas,Fresh Produce,1,£0.95,No,10,0,4,4.2,£0.95,14
+T00888,15/08/2026,19:10,Saturday,Greek Yogurt,Dairy,1,£1.85,No,57,0,7,5.2,£1.85,19
+T00889,06/08/2026,10:35,Thursday,Cheddar Cheese,Dairy,1,£2.79,No,3,0,7,1.5,£2.79,10
+T00890,27/07/2026,12:00,Monday,Frozen Pizza,Frozen,2,£3.49,No,8,0,7,2.8,£6.98,12
+T00891,01/07/2026,08:20,Wednesday,Apples,Fresh Produce,1,£1.52,Yes,5,1,6,2.7,£1.52,8
+T00892,03/07/2026,12:05,Friday,Bananas,Fresh Produce,1,£0.95,No,20,0,6,4.7,£0.95,12
+T00893,08/07/2026,13:05,Wednesday,Milk 2L,Dairy,3,£1.32,Yes,58,0,6,4.9,£3.96,13
+T00894,17/07/2026,14:40,Friday,Bin Bags,Household,2,£2.69,No,54,0,6,1.8,£5.38,14
+T00895,09/08/2026,16:50,Sunday,Bottled Water 6pk,Drinks,1,£2.49,No,3,1,6,2.3,£2.49,16
+T00896,06/08/2026,14:35,Thursday,Ice Cream,Frozen,2,£3.95,No,52,0,7,2.1,£7.90,14
+T00897,19/06/2026,17:20,Friday,Bananas,Fresh Produce,3,£0.95,No,50,1,8,4.2,£2.85,17
+T00898,12/06/2026,14:20,Friday,White Bread,Bakery,2,£1.39,No,44,0,4,4.5,£2.78,14
+T00899,29/08/2026,16:40,Saturday,White Bread,Bakery,1,£1.39,No,38,0,4,4.8,£1.39,16
+T00900,10/06/2026,13:15,Wednesday,Bin Bags,Household,1,£2.69,No,35,0,8,2.8,£2.69,13
+T00901,29/08/2026,07:25,Saturday,Tomatoes,Fresh Produce,2,£1.49,No,53,0,7,1.1,£2.98,7
+T00902,05/07/2026,12:30,Sunday,Bin Bags,Household,2,£2.69,No,59,0,9,5.5,£5.38,12
+T00903,06/08/2026,14:20,Thursday,Ice Cream,Frozen,2,£3.95,No,12,1,7,1.1,£7.90,14
+T00904,20/07/2026,14:05,Monday,Milk 2L,Dairy,2,£1.55,No,6,0,5,2.8,£3.10,14
+T00905,25/07/2026,18:55,Saturday,Washing Liquid,Household,2,£3.99,No,55,0,9,5.1,£7.98,18
+T00906,11/07/2026,13:05,Saturday,Apples,Fresh Produce,1,£1.79,No,4,0,6,6.0,£1.79,13
+T00907,10/06/2026,12:10,Wednesday,Bottled Water 6pk,Drinks,1,£2.49,No,34,0,9,5.8,£2.49,12
+T00908,24/06/2026,11:00,Wednesday,White Bread,Bakery,2,£1.39,No,43,0,5,3.9,£2.78,11
+T00909,05/08/2026,12:35,Wednesday,Apples,Fresh Produce,1,£1.79,No,49,0,6,3.2,£1.79,12
+T00910,19/07/2026,12:05,Sunday,Kitchen Roll,Household,1,£2.80,Yes,60,1,8,3.8,£2.80,12
+T00911,27/06/2026,14:55,Saturday,Apples,Fresh Produce,1,£1.79,No,39,0,7,2.9,£1.79,14
+T00912,05/07/2026,17:15,Sunday,White Bread,Bakery,1,£1.39,No,10,0,6,3.2,£1.39,17
+T00913,21/07/2026,13:05,Tuesday,Croissants,Bakery,3,£1.99,No,25,0,8,4.5,£5.97,13
+T00914,16/07/2026,14:20,Thursday,Cheddar Cheese,Dairy,3,£2.79,No,36,1,7,1.1,£8.37,14
+T00915,31/07/2026,10:40,Friday,Frozen Chips,Frozen,2,£1.91,Yes,16,0,7,1.6,£3.82,10
+T00916,18/07/2026,10:30,Saturday,Croissants,Bakery,2,£1.99,No,28,1,7,2.5,£3.98,10
+T00917,11/06/2026,17:40,Thursday,Cheddar Cheese,Dairy,1,£2.79,No,52,0,9,4.1,£2.79,17
+T00918,15/06/2026,14:25,Monday,Tomatoes,Fresh Produce,2,£1.49,No,18,2,7,2.2,£2.98,14
+T00919,01/08/2026,12:00,Saturday,Orange Juice,Drinks,2,£1.61,Yes,36,0,8,5.8,£3.22,12
+T00920,18/07/2026,14:05,Saturday,Ice Cream,Frozen,1,£3.95,No,21,0,4,4.7,£3.95,14
+T00921,10/06/2026,13:05,Wednesday,Orange Juice,Drinks,3,£1.89,No,9,0,6,4.1,£5.67,13
+T00922,19/07/2026,17:15,Sunday,Orange Juice,Drinks,1,£1.61,Yes,18,0,8,6.9,£1.61,17
+T00923,21/06/2026,17:00,Sunday,White Bread,Bakery,2,£1.18,Yes,55,0,8,5.9,£2.36,17
+T00924,31/07/2026,09:10,Friday,Greek Yogurt,Dairy,1,£1.85,No,29,0,4,4.3,£1.85,9
+T00925,03/07/2026,08:50,Friday,Bin Bags,Household,1,£2.69,No,24,0,5,3.2,£2.69,8
+T00926,16/07/2026,12:25,Thursday,Bananas,Fresh Produce,2,£0.81,Yes,19,1,7,5.5,£1.62,12
+T00927,02/06/2026,13:10,Tuesday,Croissants,Bakery,1,£1.69,Yes,46,0,7,4.6,£1.69,13
+T00928,29/06/2026,13:10,Monday,Chocolate Cookies,Bakery,1,£1.44,Yes,29,0,8,5.5,£1.44,13
+T00929,07/07/2026,12:35,Tuesday,White Bread,Bakery,3,£1.18,Yes,35,0,7,4.7,£3.54,12
+T00930,19/07/2026,16:50,Sunday,White Bread,Bakery,2,£1.39,No,21,0,6,1.7,£2.78,16
+T00931,01/08/2026,14:50,Saturday,Milk 2L,Dairy,1,£1.55,No,20,0,4,3.2,£1.55,14
+T00932,07/08/2026,14:35,Friday,Tomatoes,Fresh Produce,2,£1.49,No,24,3,5,3.4,£2.98,14
+T00933,25/07/2026,19:25,Saturday,Milk 2L,Dairy,1,£1.55,No,36,0,7,5.3,£1.55,19
+T00934,17/07/2026,20:30,Friday,Kitchen Roll,Household,1,£2.80,Yes,40,0,4,4.2,£2.80,20
+T00935,02/07/2026,17:00,Thursday,Washing Liquid,Household,2,£3.99,No,13,0,9,5.5,£7.98,17
+T00936,23/08/2026,16:50,Sunday,Ice Cream,Frozen,1,£3.95,No,20,0,5,4.0,£3.95,16
+T00937,18/07/2026,11:45,Saturday,Frozen Chips,Frozen,1,£2.25,No,7,0,5,3.1,£2.25,11
+T00938,06/07/2026,20:05,Monday,Croissants,Bakery,3,£1.99,No,33,1,5,4.8,£5.97,20
+T00939,19/08/2026,14:15,Wednesday,Cola 2L,Drinks,2,£1.75,No,8,0,4,3.9,£3.50,14
+T00940,20/06/2026,18:10,Saturday,Cola 2L,Drinks,1,£1.49,Yes,38,0,9,4.8,£1.49,18
+T00941,18/06/2026,18:05,Thursday,Cola 2L,Drinks,1,£1.75,No,9,0,7,5.4,£1.75,18
+T00942,21/06/2026,19:45,Sunday,Chocolate Cookies,Bakery,2,£1.69,No,4,0,7,4.6,£3.38,19
+T00943,16/08/2026,12:15,Sunday,Tomatoes,Fresh Produce,4,£1.27,Yes,5,0,8,5.4,£5.08,12
+T00944,29/06/2026,17:40,Monday,Milk 2L,Dairy,1,£1.55,No,35,0,8,4.9,£1.55,17
+T00945,06/08/2026,13:55,Thursday,Milk 2L,Dairy,1,£1.55,No,25,0,8,6.4,£1.55,13
+T00946,03/08/2026,13:05,Monday,Greek Yogurt,Dairy,1,£1.85,No,54,0,7,6.1,£1.85,13
+T00947,25/08/2026,17:25,Tuesday,Ice Cream,Frozen,2,£3.95,No,44,0,7,5.4,£7.90,17
+T00948,12/06/2026,18:05,Friday,Bottled Water 6pk,Drinks,1,£2.49,No,7,0,7,6.5,£2.49,18
+T00949,13/07/2026,21:50,Monday,Bin Bags,Household,1,£2.69,No,22,0,4,2.9,£2.69,21
+T00950,07/07/2026,19:25,Tuesday,Bottled Water 6pk,Drinks,1,£2.49,No,35,0,7,4.1,£2.49,19
+T00951,11/07/2026,13:20,Saturday,White Bread,Bakery,1,£1.18,Yes,18,0,8,5.7,£1.18,13
+T00952,04/06/2026,19:35,Thursday,Frozen Chips,Frozen,3,£2.25,No,12,0,6,4.5,£6.75,19
+T00953,26/08/2026,17:20,Wednesday,Ice Cream,Frozen,2,£3.95,No,7,0,6,4.1,£7.90,17
+T00954,08/08/2026,11:35,Saturday,Bottled Water 6pk,Drinks,1,£2.49,No,24,0,7,1.4,£2.49,11
+T00955,11/08/2026,17:30,Tuesday,Croissants,Bakery,2,£1.69,Yes,13,2,8,5.3,£3.38,17
+T00956,01/06/2026,19:35,Monday,Cola 2L,Drinks,1,£1.49,Yes,46,0,8,4.5,£1.49,19
+T00957,29/07/2026,19:45,Wednesday,Tomatoes,Fresh Produce,1,£1.49,No,46,3,7,6.2,£1.49,19
+T00958,01/08/2026,16:15,Saturday,Cheddar Cheese,Dairy,1,£2.37,Yes,12,0,6,1.1,£2.37,16
+T00959,29/08/2026,19:15,Saturday,Milk 2L,Dairy,1,£1.32,Yes,57,0,6,6.3,£1.32,19
+T00960,09/07/2026,17:20,Thursday,Frozen Pizza,Frozen,1,£3.49,No,47,0,7,4.1,£3.49,17
+T00961,22/08/2026,12:00,Saturday,Chocolate Cookies,Bakery,3,£1.69,No,47,0,8,4.8,£5.07,12
+T00962,12/07/2026,19:25,Sunday,Croissants,Bakery,1,£1.99,No,14,0,6,4.2,£1.99,19
+T00963,10/06/2026,16:25,Wednesday,Croissants,Bakery,1,£1.99,No,14,0,7,2.5,£1.99,16
+T00964,29/07/2026,19:30,Wednesday,Kitchen Roll,Household,1,£3.29,No,15,0,8,6.3,£3.29,19
+T00965,21/06/2026,17:00,Sunday,Orange Juice,Drinks,1,£1.89,No,21,0,9,3.9,£1.89,17
+T00966,18/08/2026,20:55,Tuesday,Bananas,Fresh Produce,1,£0.95,No,36,0,5,3.3,£0.95,20
+T00967,25/07/2026,13:10,Saturday,Bananas,Fresh Produce,2,£0.95,No,27,1,7,4.4,£1.90,13
+T00968,25/08/2026,18:55,Tuesday,Frozen Pizza,Frozen,1,£2.97,Yes,8,0,9,2.7,£2.97,18
+T00969,23/08/2026,17:00,Sunday,Bottled Water 6pk,Drinks,1,£2.12,Yes,39,0,8,3.6,£2.12,17
+T00970,24/07/2026,16:15,Friday,Orange Juice,Drinks,2,£1.89,No,44,0,7,2.1,£3.78,16
+T00971,12/07/2026,12:50,Sunday,Bottled Water 6pk,Drinks,2,£2.12,Yes,59,0,8,5.3,£4.24,12
+T00972,03/08/2026,18:05,Monday,Bananas,Fresh Produce,1,£0.95,No,41,3,9,2.8,£0.95,18
+T00973,03/08/2026,19:20,Monday,Croissants,Bakery,1,£1.99,No,41,0,7,3.4,£1.99,19
+T00974,15/08/2026,18:20,Saturday,Bananas,Fresh Produce,1,£0.95,No,32,0,7,4.5,£0.95,18
+T00975,28/06/2026,19:20,Sunday,Bananas,Fresh Produce,3,£0.95,No,55,0,6,5.1,£2.85,19
+T00976,03/07/2026,13:40,Friday,Chocolate Cookies,Bakery,3,£1.69,No,37,0,9,5.2,£5.07,13
+T00977,05/08/2026,17:00,Wednesday,Milk 2L,Dairy,3,£1.55,No,10,0,9,4.2,£4.65,17
+T00978,02/06/2026,13:25,Tuesday,Ice Cream,Frozen,1,£3.36,Yes,57,1,6,6.3,£3.36,13
+T00979,08/08/2026,19:05,Saturday,Tomatoes,Fresh Produce,1,£1.27,Yes,17,0,8,5.5,£1.27,19
+T00980,10/07/2026,18:10,Friday,Kitchen Roll,Household,1,£3.29,No,31,0,6,3.3,£3.29,18
+T00981,26/08/2026,18:15,Wednesday,Chocolate Cookies,Bakery,1,£1.69,No,13,0,6,3.8,£1.69,18
+T00982,27/08/2026,13:30,Thursday,Washing Liquid,Household,1,£3.39,Yes,11,0,9,6.3,£3.39,13
+T00983,04/08/2026,14:45,Tuesday,Cheddar Cheese,Dairy,2,£2.37,Yes,16,0,6,2.7,£4.74,14
+T00984,23/07/2026,13:05,Thursday,Chocolate Cookies,Bakery,1,£1.69,No,47,0,6,3.3,£1.69,13
+T00985,08/08/2026,19:55,Saturday,Ice Cream,Frozen,1,£3.95,No,51,0,8,5.4,£3.95,19
+T00986,16/08/2026,08:20,Sunday,Washing Liquid,Household,4,£3.99,No,45,1,5,3.5,£15.96,8
+T00987,05/07/2026,17:40,Sunday,Chocolate Cookies,Bakery,2,£1.69,No,40,0,8,4.8,£3.38,17
+T00988,06/06/2026,18:50,Saturday,Bin Bags,Household,2,£2.29,Yes,56,0,9,5.1,£4.58,18
+T00989,15/06/2026,13:30,Monday,Cheddar Cheese,Dairy,1,£2.79,No,47,0,6,3.7,£2.79,13
+T00990,11/08/2026,19:40,Tuesday,Washing Liquid,Household,1,£3.99,No,17,0,8,4.0,£3.99,19
+T00991,16/07/2026,12:25,Thursday,Tomatoes,Fresh Produce,1,£1.49,No,7,0,6,3.6,£1.49,12
+T00992,24/07/2026,14:20,Friday,Bottled Water 6pk,Drinks,2,£2.12,Yes,7,0,6,1.1,£4.24,14
+T00993,30/06/2026,21:50,Tuesday,Cola 2L,Drinks,4,£1.75,No,46,0,7,1.3,£7.00,21
+T00994,19/06/2026,16:25,Friday,White Bread,Bakery,1,£1.18,Yes,25,2,6,2.4,£1.18,16
+T00995,15/06/2026,13:10,Monday,Cola 2L,Drinks,1,£1.75,No,23,0,8,5.2,£1.75,13
+T00996,17/06/2026,13:25,Wednesday,Orange Juice,Drinks,3,£1.89,No,22,0,8,5.5,£5.67,13
+T00997,23/06/2026,17:00,Tuesday,Frozen Pizza,Frozen,1,£3.49,No,18,0,6,3.3,£3.49,17
+T00998,08/08/2026,18:15,Saturday,Bottled Water 6pk,Drinks,1,£2.49,No,24,1,6,5.1,£2.49,18
+T00999,11/08/2026,14:05,Tuesday,Chocolate Cookies,Bakery,1,£1.69,No,3,0,4,3.0,£1.69,14
+T01000,05/08/2026,15:35,Wednesday,Greek Yogurt,Dairy,3,£1.85,No,31,0,7,1.4,£5.55,15
